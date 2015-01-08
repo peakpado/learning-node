@@ -1,0 +1,1600 @@
+shared-library,"/usr/local/bin/node",0x100002c40,0x100395755
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Carbon",0x7fff956c7fd0,0x7fff956c7fd0
+shared-library,"/usr/lib/libSystem.B.dylib",0x7fff8f8bda1a,0x7fff8f8bdbbe
+shared-library,"/System/Library/Frameworks/Foundation.framework/Versions/C/Foundation",0x7fff9608ca70,0x7fff962fd502
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices",0x7fff8de2ffc0,0x7fff8de2ffc0
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices",0x7fff95827fb0,0x7fff95827fb0
+shared-library,"/usr/lib/libstdc++.6.dylib",0x7fff97189910,0x7fff971c8692
+shared-library,"/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation",0x7fff940908b0,0x7fff94230b9c
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels",0x7fff93bb2857,0x7fff93bb4fd2
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help",0x7fff92837f60,0x7fff9283a17a
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox",0x7fff8f0c9940,0x7fff8f3263e3
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture",0x7fff8fe4b4c0,0x7fff8fe56b4a
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink",0x7fff948d8120,0x7fff9494bd30
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting",0x7fff9065b280,0x7fff9066df7f
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print",0x7fff93f949f7,0x7fff93f95710
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI",0x7fff8f92436c,0x7fff8f9257e2
+shared-library,"/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition",0x7fff8d43f2d0,0x7fff8d4456be
+shared-library,"/usr/lib/libobjc.A.dylib",0x7fff928b1000,0x7fff928cde48
+shared-library,"/System/Library/Frameworks/CoreText.framework/Versions/A/CoreText",0x7fff980c3700,0x7fff98175488
+shared-library,"/System/Library/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics",0x7fff90faccd0,0x7fff914b7f8f
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO",0x7fff98657010,0x7fff98738b3b
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS",0x7fff8c515d50,0x7fff8c577df7
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync",0x7fff8f3bebe0,0x7fff8f41c80d
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices",0x7fff94887534,0x7fff948c3872
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis",0x7fff9435323c,0x7fff94360b8e
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore",0x7fff972e7e10,0x7fff97325801
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD",0x7fff8f4498b0,0x7fff8f478a8b
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis",0x7fff9487ab40,0x7fff948821db
+shared-library,"/usr/lib/libz.1.dylib",0x7fff8e1590f0,0x7fff8e163c55
+shared-library,"/usr/lib/libbsm.0.dylib",0x7fff950a1d54,0x7fff950afd51
+shared-library,"/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit",0x7fff92844274,0x7fff928a2b30
+shared-library,"/System/Library/Frameworks/IOSurface.framework/Versions/A/IOSurface",0x7fff90fa69c2,0x7fff90fa9388
+shared-library,"/System/Library/Frameworks/Security.framework/Versions/A/Security",0x7fff903ec740,0x7fff905a6456
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate",0x7fff8d74c000,0x7fff8d74c000
+shared-library,"/usr/lib/libc++.1.dylib",0x7fff8c93abd0,0x7fff8c97f4c0
+shared-library,"/usr/lib/system/libcache.dylib",0x7fff99c39b50,0x7fff99c3c53d
+shared-library,"/usr/lib/system/libcommonCrypto.dylib",0x7fff948ccf98,0x7fff948d5b8d
+shared-library,"/usr/lib/system/libcompiler_rt.dylib",0x7fff8c2e8080,0x7fff8c2ecc2a
+shared-library,"/usr/lib/system/libcopyfile.dylib",0x7fff8c7b7ec4,0x7fff8c7bd7ec
+shared-library,"/usr/lib/system/libcorecrypto.dylib",0x7fff8f8d4f90,0x7fff8f90ac0c
+shared-library,"/usr/lib/system/libdispatch.dylib",0x7fff94466ef0,0x7fff9447b189
+shared-library,"/usr/lib/system/libdyld.dylib",0x7fff93fbe1b0,0x7fff93fc0605
+shared-library,"/usr/lib/system/libkeymgr.dylib",0x7fff96058a4f,0x7fff96058e4e
+shared-library,"/usr/lib/system/liblaunch.dylib",0x7fff96da4e78,0x7fff96dab56c
+shared-library,"/usr/lib/system/libmacho.dylib",0x7fff8e024570,0x7fff8e0288ea
+shared-library,"/usr/lib/system/libquarantine.dylib",0x7fff9281e287,0x7fff9281fb12
+shared-library,"/usr/lib/system/libremovefile.dylib",0x7fff8cf8b99c,0x7fff8cf8cc81
+shared-library,"/usr/lib/system/libsystem_asl.dylib",0x7fff8dd387a0,0x7fff8dd47705
+shared-library,"/usr/lib/system/libsystem_blocks.dylib",0x7fff93f93334,0x7fff93f93b48
+shared-library,"/usr/lib/system/libsystem_c.dylib",0x7fff9068f600,0x7fff9070ee01
+shared-library,"/usr/lib/system/libsystem_configuration.dylib",0x7fff8c346054,0x7fff8c347a14
+shared-library,"/usr/lib/system/libsystem_dnssd.dylib",0x7fff8c39d828,0x7fff8c3a337c
+shared-library,"/usr/lib/system/libsystem_info.dylib",0x7fff91d505a0,0x7fff91d73c07
+shared-library,"/usr/lib/system/libsystem_kernel.dylib",0x7fff98c914f0,0x7fff98ca6fde
+shared-library,"/usr/lib/system/libsystem_m.dylib",0x7fff8c7821e0,0x7fff8c7956f2
+shared-library,"/usr/lib/system/libsystem_malloc.dylib",0x7fff968e2384,0x7fff968f939f
+shared-library,"/usr/lib/system/libsystem_network.dylib",0x7fff8c98e210,0x7fff8c9ad91b
+shared-library,"/usr/lib/system/libsystem_notify.dylib",0x7fff90651380,0x7fff90659925
+shared-library,"/usr/lib/system/libsystem_platform.dylib",0x7fff93bb6a20,0x7fff93bbb825
+shared-library,"/usr/lib/system/libsystem_pthread.dylib",0x7fff8dfff3b4,0x7fff8e003fcb
+shared-library,"/usr/lib/system/libsystem_sandbox.dylib",0x7fff90ad4ae4,0x7fff90ad5b2e
+shared-library,"/usr/lib/system/libsystem_stats.dylib",0x7fff947b407c,0x7fff947b7667
+shared-library,"/usr/lib/system/libunc.dylib",0x7fff8ff538f3,0x7fff8ff54b60
+shared-library,"/usr/lib/system/libunwind.dylib",0x7fff9282094c,0x7fff92825388
+shared-library,"/usr/lib/system/libxpc.dylib",0x7fff8e080b70,0x7fff8e09affe
+shared-library,"/usr/lib/libauto.dylib",0x7fff95180cd0,0x7fff951bce80
+shared-library,"/usr/lib/libc++abi.dylib",0x7fff94c0ce30,0x7fff94c32995
+shared-library,"/usr/lib/libDiagnosticMessagesClient.dylib",0x7fff95e0e18e,0x7fff95e0ea22
+shared-library,"/usr/lib/system/libkxld.dylib",0x7fff94581e3c,0x7fff9458bbff
+shared-library,"/usr/lib/libicucore.A.dylib",0x7fff90ad6b10,0x7fff90c49d9c
+shared-library,"/System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork",0x7fff95c727a0,0x7fff95de4b05
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore",0x7fff8d87cd90,0x7fff8d95d6ec
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata",0x7fff8c820f30,0x7fff8c8981b0
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices",0x7fff8d0551f0,0x7fff8d0bb42c
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit",0x7fff90cef2c0,0x7fff90d4119d
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE",0x7fff951254c0,0x7fff951786c3
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices",0x7fff8f7cadc0,0x7fff8f87dbbf
+shared-library,"/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices",0x7fff98cb11e0,0x7fff98cd4100
+shared-library,"/System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration",0x7fff8dcd37f0,0x7fff8dd29533
+shared-library,"/usr/lib/libsqlite3.dylib",0x7fff95540960,0x7fff95620b10
+shared-library,"/usr/lib/libxml2.2.dylib",0x7fff99b519f0,0x7fff99c19eae
+shared-library,"/usr/lib/libxar.1.dylib",0x7fff93961fd4,0x7fff9396d7a6
+shared-library,"/usr/lib/libpam.2.dylib",0x7fff9509cf4c,0x7fff9509fdac
+shared-library,"/usr/lib/libOpenScriptingUtil.dylib",0x7fff8ccfadc0,0x7fff8ccfaf16
+shared-library,"/usr/lib/libbz2.1.0.dylib",0x7fff99c3f154,0x7fff99c4afec
+shared-library,"/System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration",0x7fff8e16b3b8,0x7fff8e16f065
+shared-library,"/System/Library/Frameworks/NetFS.framework/Versions/A/NetFS",0x7fff9199bfc0,0x7fff919a1ac7
+shared-library,"/System/Library/PrivateFrameworks/NetAuth.framework/Versions/A/NetAuth",0x7fff8c3be760,0x7fff8c3c820a
+shared-library,"/usr/lib/liblangid.dylib",0x7fff8c22c476,0x7fff8c22cd1e
+shared-library,"/usr/lib/libCRFSuite.dylib",0x7fff972cb410,0x7fff972e2c6b
+shared-library,"/System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/DataDetectorsCore",0x7fff8fe5e180,0x7fff8feab2dd
+shared-library,"/System/Library/PrivateFrameworks/TCC.framework/Versions/A/TCC",0x7fff8ccfbd90,0x7fff8ccfe6b9
+shared-library,"/System/Library/Frameworks/OpenDirectory.framework/Versions/A/Frameworks/CFOpenDirectory.framework/Versions/A/CFOpenDirectory",0x7fff8f0af550,0x7fff8f0bfb2f
+shared-library,"/System/Library/Frameworks/ServiceManagement.framework/Versions/A/ServiceManagement",0x7fff9565e7a4,0x7fff956656cd
+shared-library,"/usr/lib/libxslt.1.dylib",0x7fff95e0fc4c,0x7fff95e3000d
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage",0x7fff92a5edf0,0x7fff92c9eb7d
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib",0x7fff919a4000,0x7fff919a4000
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib",0x7fff9496eb80,0x7fff94a2cfb1
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib",0x7fff94fd0700,0x7fff9505c05c
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib",0x7fff8e8da538,0x7fff8ecb169e
+shared-library,"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib",0x7fff9535b880,0x7fff954c607b
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontParser.dylib",0x7fff9599ad20,0x7fff959f8c6c
+shared-library,"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistry.dylib",0x7fff945b8950,0x7fff945ecdfe
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib",0x7fff97eabd40,0x7fff97eca16e
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib",0x7fff95bf642c,0x7fff95c2d2dd
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib",0x7fff951f0de0,0x7fff95208760
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib",0x7fff95bec150,0x7fff95befa16
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib",0x7fff8d32f4f0,0x7fff8d3dbe63
+shared-library,"/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib",0x7fff9458d821,0x7fff9458fbc0
+shared-library,"/usr/lib/libcups.2.dylib",0x7fff94044bc8,0x7fff9407d86d
+shared-library,"/System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos",0x7fff954f7b35,0x7fff9550a210
+shared-library,"/System/Library/Frameworks/GSS.framework/Versions/A/GSS",0x7fff96d75280,0x7fff96d9e049
+shared-library,"/usr/lib/libresolv.9.dylib",0x7fff8e007230,0x7fff8e0202db
+shared-library,"/usr/lib/libiconv.2.dylib",0x7fff971d8c98,0x7fff971ed08d
+shared-library,"/System/Library/PrivateFrameworks/Heimdal.framework/Versions/A/Heimdal",0x7fff8cf8e980,0x7fff8cfe3a98
+shared-library,"/System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Versions/A/TrustEvaluationAgent",0x7fff9229291a,0x7fff922937c2
+shared-library,"/usr/lib/libheimdal-asn1.dylib",0x7fff92385796,0x7fff92389b48
+shared-library,"/System/Library/Frameworks/OpenDirectory.framework/Versions/A/OpenDirectory",0x7fff8c34ac50,0x7fff8c352366
+shared-library,"/System/Library/PrivateFrameworks/CommonAuth.framework/Versions/A/CommonAuth",0x7fff98c8729c,0x7fff98c8f11d
+shared-library,"/System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation",0x7fff9221f680,0x7fff92254eb5
+shared-library,"/System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio",0x7fff91cfe560,0x7fff91d431f0
+shared-library,"/System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox",0x7fff93a5d700,0x7fff93b7f6e1
+shared-library,"/System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI",0x7fff8c5f7920,0x7fff8c6a71fe
+shared-library,"/System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore",0x7fff98186990,0x7fff982efd06
+shared-library,"/System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv",0x7fff95abb800,0x7fff95b9ad30
+shared-library,"/System/Library/PrivateFrameworks/MultitouchSupport.framework/Versions/A/MultitouchSupport",0x7fff8c9f7bc0,0x7fff8ca06f8f
+shared-library,"/System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/GenerationalStorage",0x7fff9523b2e0,0x7fff9524e083
+shared-library,"/System/Library/PrivateFrameworks/Bom.framework/Versions/A/Bom",0x7fff9398a258,0x7fff939bef8f
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL",0x7fff8d4486fc,0x7fff8d4540e6
+shared-library,"/System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo",0x7fff8c7bfa7c,0x7fff8c7d9be8
+shared-library,"/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage",0x7fff91a19730,0x7fff91bdb7bc
+shared-library,"/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface",0x7fff8c4c2d20,0x7fff8c501c0a
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib",0x7fff968fd894,0x7fff9693740a
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib",0x7fff95512730,0x7fff95518825
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib",0x7fff93f8709d,0x7fff93f91f2c
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib",0x7fff94363660,0x7fff9439f4f0
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib",0x7fff8c1d256f,0x7fff8c1d3cc6
+shared-library,"/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib",0x7fff9264f6e8,0x7fff92651efb
+shared-library,"/System/Library/PrivateFrameworks/FaceCore.framework/Versions/A/FaceCore",0x7fff96940e90,0x7fff9699cae4
+shared-library,"/System/Library/PrivateFrameworks/CrashReporterSupport.framework/Versions/A/CrashReporterSupport",0x7fff8f6e61a8,0x7fff8f6ed9fe
+shared-library,"/System/Library/Frameworks/OpenCL.framework/Versions/A/OpenCL",0x7fff90332468,0x7fff9036f54d
+shared-library,"/System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/A/AppleFSCompression",0x7fff9864a0a0,0x7fff98652b53
+shared-library,"/System/Library/PrivateFrameworks/Ubiquity.framework/Versions/A/Ubiquity",0x7fff94590f70,0x7fff945a36c8
+shared-library,"/System/Library/PrivateFrameworks/Sharing.framework/Versions/A/Sharing",0x7fff93954050,0x7fff9395e878
+shared-library,"/System/Library/PrivateFrameworks/IconServices.framework/Versions/A/IconServices",0x7fff8d012c00,0x7fff8d037756
+shared-library,"/System/Library/PrivateFrameworks/ChunkingLibrary.framework/Versions/A/ChunkingLibrary",0x7fff956d9680,0x7fff956f4e13
+profiler,"begin",1
+code-creation,Stub,0x2b595ab06000,195,"CompareICStub"
+code-creation,Stub,0x2b595ab060e0,794,"CEntryStub"
+code-creation,Stub,0x2b595ab06400,168,"StoreBufferOverflowStub"
+code-creation,Stub,0x2b595ab064c0,772,"RecordWriteStub"
+code-creation,Stub,0x2b595ab067e0,173,"CompareICStub"
+code-creation,Stub,0x2b595ab068a0,232,"FastCloneShallowArrayStub"
+code-creation,Stub,0x2b595ab069a0,214,"CompareICStub"
+code-creation,Stub,0x2b595ab06a80,1750,"RecordWriteStub"
+code-creation,Stub,0x2b595ab07160,138,"ToBooleanStub"
+code-creation,Stub,0x2b595ab07200,139,"ToNumberStub"
+code-creation,Stub,0x2b595ab072a0,122,"ToBooleanStub"
+code-creation,Stub,0x2b595ab07320,1750,"RecordWriteStub"
+code-creation,Stub,0x2b595ab07a00,260,"NumberToStringStub"
+code-creation,Stub,0x2b595ab07b20,972,"StringDictionaryLookupStub"
+code-creation,Stub,0x2b595ab07f00,195,"CompareICStub"
+code-creation,Stub,0x2b595ab07fe0,146,"BinaryOpStub"
+code-creation,Stub,0x2b595ab08080,1690,"StringAddStub"
+code-creation,Stub,0x2b595ab08720,1756,"RecordWriteStub"
+code-creation,Stub,0x2b595ab08e00,302,"BinaryOpStub"
+code-creation,Stub,0x2b595ab08f40,242,"FastNewContextStub"
+code-creation,Stub,0x2b595ab09040,173,"CompareICStub"
+code-creation,Stub,0x2b595ab09100,388,"StoreBufferOverflowStub"
+code-creation,Stub,0x2b595ab092a0,1786,"RecordWriteStub"
+code-creation,Stub,0x2b595ab099a0,1458,"StringAddStub"
+code-creation,Stub,0x2b595ab09f60,173,"CompareICStub"
+code-creation,Stub,0x2b595ab0a020,1810,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0a740,317,"CallFunctionStub"
+code-creation,Builtin,0x2b595ab0a880,260,"A builtin from the snapshot"
+code-creation,Stub,0x2b595ab0a9a0,228,"FastNewContextStub"
+code-creation,Stub,0x2b595ab0aaa0,173,"CompareICStub"
+code-creation,Stub,0x2b595ab0ab60,113,"InterruptStub"
+code-creation,Stub,0x2b595ab0abe0,511,"ArgumentsAccessStub"
+code-creation,Stub,0x2b595ab0ade0,972,"StringDictionaryLookupStub"
+code-creation,Stub,0x2b595ab0b1c0,113,"StackCheckStub"
+code-creation,Stub,0x2b595ab0b240,268,"FastCloneShallowArrayStub"
+code-creation,Stub,0x2b595ab0b360,173,"CompareICStub"
+code-creation,Stub,0x2b595ab0b420,317,"CallFunctionStub"
+code-creation,Stub,0x2b595ab0b560,258,"FastCloneShallowObjectStub"
+code-creation,Stub,0x2b595ab0b680,165,"ToBooleanStub"
+code-creation,Stub,0x2b595ab0b740,302,"BinaryOpStub"
+code-creation,Stub,0x2b595ab0b880,255,"CallConstructStub"
+code-creation,Stub,0x2b595ab0b980,1145,"CEntryStub"
+code-creation,Stub,0x2b595ab0be00,1769,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0c500,151,"ToBooleanStub"
+code-creation,Stub,0x2b595ab0c5a0,187,"CompareICStub"
+code-creation,Stub,0x2b595ab0c660,232,"FastCloneShallowArrayStub"
+code-creation,Stub,0x2b595ab0c760,565,"CompareStub"
+code-creation,Stub,0x2b595ab0c9a0,1756,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0d080,1756,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0d760,317,"CallFunctionStub"
+code-creation,Stub,0x2b595ab0d8a0,778,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0dbc0,173,"CompareICStub"
+code-creation,Stub,0x2b595ab0dc80,260,"FastCloneShallowArrayStub"
+code-creation,Stub,0x2b595ab0dda0,242,"FastCloneShallowObjectStub"
+code-creation,Stub,0x2b595ab0dea0,203,"BinaryOpStub"
+code-creation,Stub,0x2b595ab0df80,1687,"StringAddStub"
+code-creation,Stub,0x2b595ab0e620,1765,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0ed20,272,"StringCompareStub"
+code-creation,Stub,0x2b595ab0ee40,1768,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0f540,1786,"RecordWriteStub"
+code-creation,Stub,0x2b595ab0fc40,1497,"StringAddStub"
+code-creation,Stub,0x2b595ab10220,146,"BinaryOpStub"
+code-creation,Stub,0x2b595ab102c0,146,"BinaryOpStub"
+code-creation,Stub,0x2b595ab10360,146,"BinaryOpStub"
+code-creation,Stub,0x2b595ab10400,402,"FastNewClosureStub"
+code-creation,Stub,0x2b595ab105a0,991,"StringDictionaryLookupStub"
+code-creation,Stub,0x2b595ab10980,1753,"RecordWriteStub"
+code-creation,Stub,0x2b595ab11060,1807,"RecordWriteStub"
+code-creation,Stub,0x2b595ab11780,383,"JSEntryStub"
+code-creation,Stub,0x2b595ab11900,383,"JSEntryStub"
+code-creation,Stub,0x2b595ab11a80,768,"RecordWriteStub"
+code-creation,Stub,0x2b595ab11d80,204,"KeyedLoadElementStub"
+code-creation,Builtin,0x2b595ab11e60,120,"A builtin from the snapshot"
+code-creation,Stub,0x2b595ab11ee0,302,"BinaryOpStub"
+code-creation,Stub,0x2b595ab12020,196,"CallConstructStub"
+code-creation,Stub,0x2b595ab12100,217,"ArgumentsAccessStub"
+code-creation,Stub,0x2b595ab121e0,204,"BinaryOpStub"
+code-creation,CallIC,0x2b595ab122c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab123c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab124c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab125c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab126c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab127c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab128c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab129c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12ac0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12bc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12cc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12dc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12ec0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab12fc0,244,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab130c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab131c0,243,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab132c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab133c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab134c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab135c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab136c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab137c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab138c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab139c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13ac0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13bc0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13cc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13dc0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13ec0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab13fc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab140c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab141c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab142c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab143c0,241,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab144c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab145c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab146c0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab147c0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab148c0,244,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab149c0,244,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14ac0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14bc0,244,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14cc0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14dc0,255,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14ec0,244,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab14fc0,246,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab150c0,243,"A call IC from the snapshot"
+code-creation,CallIC,0x2b595ab151c0,246,"A call IC from the snapshot"
+code-creation,Builtin,0x2b595ab152c0,183,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab15380,181,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab15440,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab154c0,577,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab15880,160,"A builtin from the snapshot"
+code-creation,LoadIC,0x2b595ab16400,120,"A load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab165e0,120,"A keyed load IC from the snapshot"
+code-creation,StoreIC,0x2b595ab17720,121,"A store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab18c00,121,"A keyed store IC from the snapshot"
+code-creation,Builtin,0x2b595ab23840,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab238c0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23940,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab239c0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23a40,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23ac0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23b40,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23bc0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23c40,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23cc0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23d40,120,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23dc0,120,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23e40,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23ec0,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23f40,115,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab23fc0,111,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24040,648,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab242e0,554,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24520,206,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24600,177,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab246c0,160,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24760,169,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24820,221,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24900,221,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab249e0,189,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24aa0,120,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24b20,120,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24ba0,120,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24c20,121,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24ca0,121,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24d20,121,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab24da0,121,"A builtin from the snapshot"
+code-creation,LoadIC,0x2b595ab24e20,120,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab24ea0,353,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab25020,128,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab250a0,131,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab25140,178,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab25200,168,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab252c0,324,"A load IC from the snapshot"
+code-creation,LoadIC,0x2b595ab25420,134,"A load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab254c0,120,"A keyed load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab25540,1018,"A keyed load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab25940,739,"A keyed load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab25c40,188,"A keyed load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab25d00,307,"A keyed load IC from the snapshot"
+code-creation,StoreIC,0x2b595ab25e40,212,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab25f20,424,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab260e0,345,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab26240,125,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab262c0,121,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab26340,212,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab26420,424,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab265e0,345,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab26740,125,"A store IC from the snapshot"
+code-creation,StoreIC,0x2b595ab267c0,136,"A store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab26860,2425,"A keyed store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab271e0,121,"A keyed store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab27260,2425,"A keyed store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab27be0,401,"A keyed store IC from the snapshot"
+code-creation,Builtin,0x2b595ab27d80,476,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab27f60,483,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab28160,483,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab28360,492,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab28560,831,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab288a0,831,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab28be0,816,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab28f20,501,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab29120,930,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab294e0,179,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab295a0,181,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab29660,215,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab29740,217,"A builtin from the snapshot"
+code-creation,LoadIC,0x2b595ab29820,181,"A load IC from the snapshot"
+code-creation,KeyedLoadIC,0x2b595ab298e0,181,"A keyed load IC from the snapshot"
+code-creation,StoreIC,0x2b595ab299a0,183,"A store IC from the snapshot"
+code-creation,KeyedStoreIC,0x2b595ab29a60,183,"A keyed store IC from the snapshot"
+code-creation,Builtin,0x2b595ab29b20,97,"A builtin from the snapshot"
+code-creation,Builtin,0x2b595ab29ba0,137,"A builtin from the snapshot"
+code-creation,LazyCompile,0x2b595ab15440,115,"Empty",0x123f28c0f490,
+code-creation,Script,0x2b595ab15720,352,"native array.js",0x123f28c0f5a8,
+code-creation,LazyCompile,0x2b595ab15920,2784,"SetUpArray native array.js:1494",0x123f28c13f58,
+code-creation,LazyCompile,0x2b595ab16480,344,"SetUpArray.b native array.js:1507",0x123f28c141a8,
+code-creation,Script,0x2b595ab16660,2592,"native v8natives.js",0x123f28c14368,
+code-creation,LazyCompile,0x2b595ab17080,676,"InstallFunctions native v8natives.js:48",0x123f28c14918,
+code-creation,LazyCompile,0x2b595ab17340,988,"SetUpLockedPrototype native v8natives.js:67",0x123f28c17f28,
+code-creation,LazyCompile,0x2b595ab177a0,672,"SetUpGlobal native v8natives.js:177",0x123f28c18378,
+code-creation,LazyCompile,0x2b595ab17a40,552,"hasOwnProperty native v8natives.js:249",0x123f28c18648,
+code-creation,LazyCompile,0x2b595ab17c80,1140,"SetUpObject native v8natives.js:1286",0x123f28c1a228,
+code-creation,LazyCompile,0x2b595ab18100,364,"SetUpBoolean native v8natives.js:1351",0x123f28c1a458,
+code-creation,LazyCompile,0x2b595ab18280,1256,"SetUpNumber native v8natives.js:1489",0x123f28c1aa48,
+code-creation,LazyCompile,0x2b595ab18780,1148,"NewFunction native v8natives.js:1640",0x123f28c1ad18,
+code-creation,LazyCompile,0x2b595ab18c80,364,"SetUpFunction native v8natives.js:1668",0x123f28c1ae88,
+code-creation,LazyCompile,0x2b595ab18e00,380," native v8natives.js:205",0x123f28c1af78,
+code-creation,LazyCompile,0x2b595ab18f80,440," native v8natives.js:1271",0x123f28c1be98,
+code-creation,LazyCompile,0x2b595ab19140,424," native v8natives.js:1366",0x123f28c1bf90,
+code-creation,Script,0x2b595ab19300,1012,"native string.js",0x123f28c1c0f8,
+code-creation,LazyCompile,0x2b595ab19700,1616,"SetUpString native string.js:940",0x123f28c20018,
+code-creation,LazyCompile,0x2b595ab19d60,476," native string.js:36",0x123f28c20108,
+code-creation,Script,0x2b595ab19f40,660,"native math.js",0x123f28c204a8,
+code-creation,LazyCompile,0x2b595ab1a1e0,196,"MathConstructor native math.js:37",0x123f28c20708,
+code-creation,LazyCompile,0x2b595ab1a2c0,1556,"SetUpMath native math.js:223",0x123f28c21cd0,
+code-creation,Script,0x2b595ab1a8e0,1052,"native date.js",0x123f28c21e28,
+code-creation,LazyCompile,0x2b595ab1ad00,2032,"SetUpDate native date.js:768",0x123f28c267a8,
+code-creation,LazyCompile,0x2b595ab1b500,1720," native date.js:145",0x123f28c268c8,
+code-creation,Script,0x2b595ab1bbc0,844,"native runtime.js",0x123f28c26c90,
+code-creation,LazyCompile,0x2b595ab1bf20,1884,"EQUALS native runtime.js:54",0x123f28c270d0,
+code-creation,LazyCompile,0x2b595ab1c680,432,"STRICT_EQUALS native runtime.js:100",0x123f28c28738,
+code-creation,LazyCompile,0x2b595ab1c840,1044,"COMPARE native runtime.js:120",0x123f28c28830,
+code-creation,LazyCompile,0x2b595ab1cc60,696,"ADD native runtime.js:163",0x123f28c28950,
+code-creation,LazyCompile,0x2b595ab1cf20,708,"STRING_ADD_LEFT native runtime.js:183",0x123f28c28a58,
+code-creation,LazyCompile,0x2b595ab1d200,720,"STRING_ADD_RIGHT native runtime.js:198",0x123f28c28b50,
+code-creation,LazyCompile,0x2b595ab1d4e0,360,"SUB native runtime.js:214",0x123f28c28c50,
+code-creation,LazyCompile,0x2b595ab1d660,360,"MUL native runtime.js:222",0x123f28c28d50,
+code-creation,LazyCompile,0x2b595ab1d7e0,360,"DIV native runtime.js:230",0x123f28c28e50,
+code-creation,LazyCompile,0x2b595ab1d960,360,"MOD native runtime.js:238",0x123f28c28f50,
+code-creation,LazyCompile,0x2b595ab1dae0,360,"BIT_OR native runtime.js:252",0x123f28c29050,
+code-creation,LazyCompile,0x2b595ab1dc60,468,"BIT_AND native runtime.js:260",0x123f28c29150,
+code-creation,LazyCompile,0x2b595ab1de40,360,"BIT_XOR native runtime.js:282",0x123f28c29250,
+code-creation,LazyCompile,0x2b595ab1dfc0,296,"UNARY_MINUS native runtime.js:290",0x123f28c29350,
+code-creation,LazyCompile,0x2b595ab1e100,296,"BIT_NOT native runtime.js:297",0x123f28c29448,
+code-creation,LazyCompile,0x2b595ab1e240,360,"SHL native runtime.js:304",0x123f28c29540,
+code-creation,LazyCompile,0x2b595ab1e3c0,468,"SAR native runtime.js:312",0x123f28c29640,
+code-creation,LazyCompile,0x2b595ab1e5a0,360,"SHR native runtime.js:334",0x123f28c29740,
+code-creation,LazyCompile,0x2b595ab1e720,284,"DELETE native runtime.js:348",0x123f28c29840,
+code-creation,LazyCompile,0x2b595ab1e840,540,"IN native runtime.js:354",0x123f28c29940,
+code-creation,LazyCompile,0x2b595ab1ea60,844,"INSTANCE_OF native runtime.js:367",0x123f28c29a78,
+code-creation,LazyCompile,0x2b595ab1edc0,292,"FILTER_KEY native runtime.js:398",0x123f28c29bf8,
+code-creation,LazyCompile,0x2b595ab1ef00,500,"CALL_NON_FUNCTION native runtime.js:405",0x123f28c29cf8,
+code-creation,LazyCompile,0x2b595ab1f100,500,"CALL_NON_FUNCTION_AS_CONSTRUCTOR native runtime.js:414",0x123f28c29e30,
+code-creation,LazyCompile,0x2b595ab1f300,344,"CALL_FUNCTION_PROXY native runtime.js:423",0x123f28c29f68,
+code-creation,LazyCompile,0x2b595ab1f460,316,"CALL_FUNCTION_PROXY_AS_CONSTRUCTOR native runtime.js:431",0x123f28c2a078,
+code-creation,LazyCompile,0x2b595ab1f5a0,1264,"APPLY_PREPARE native runtime.js:438",0x123f28c2a180,
+code-creation,LazyCompile,0x2b595ab1faa0,284,"APPLY_OVERFLOW native runtime.js:476",0x123f28c2a300,
+code-creation,LazyCompile,0x2b595ab1fbc0,232,"TO_OBJECT native runtime.js:482",0x123f28c2a418,
+code-creation,LazyCompile,0x2b595ab1fcc0,232,"TO_NUMBER native runtime.js:488",0x123f28c2a508,
+code-creation,LazyCompile,0x2b595ab1fdc0,232,"TO_STRING native runtime.js:494",0x123f28c2a5f8,
+code-creation,LazyCompile,0x2b595ab1fec0,536,"ToPrimitive native runtime.js:506",0x123f28c2a6e8,
+code-creation,LazyCompile,0x2b595ab200e0,496,"ToBoolean native runtime.js:517",0x123f28c2a7e8,
+code-creation,LazyCompile,0x2b595ab202e0,540,"ToNumber native runtime.js:527",0x123f28c2a8e0,
+code-creation,LazyCompile,0x2b595ab20500,496,"ToString native runtime.js:550",0x123f28c2aa78,
+code-creation,Script,0x2b595ab20700,344,"native json.js",0x123f28c2b178,
+code-creation,LazyCompile,0x2b595ab20860,348,"SetUpJSON native json.js:341",0x123f28c2c410,
+code-creation,Script,0x2b595ab209c0,2656,"native messages.js",0x123f28c2c568,
+code-creation,LazyCompile,0x2b595ab21420,372,"MakeGenericError native messages.js:114",0x123f28c2f4f8,
+code-creation,LazyCompile,0x2b595ab215a0,248,"MakeRangeError native messages.js:318",0x123f28c2f8c8,
+code-creation,LazyCompile,0x2b595ab216a0,408,"DefineOneShotAccessor native messages.js:767",0x123f28c30630,
+code-creation,LazyCompile,0x2b595ab21840,556,"captureStackTrace native messages.js:1113",0x123f28c31680,
+code-creation,LazyCompile,0x2b595ab21a80,612,"SetUpError native messages.js:1128",0x123f28c31838,
+code-creation,LazyCompile,0x2b595ab21d00,936,"SetUpError.a native messages.js:1131",0x123f28c31978,
+code-creation,LazyCompile,0x2b595ab220c0,196,"d native messages.js:1147",0x123f28c31a68,
+code-creation,LazyCompile,0x2b595ab221a0,652," native messages.js:1157",0x123f28c31b58,
+code-creation,LazyCompile,0x2b595ab221a0,652,"Error",0x123f28c31d68,
+code-creation,LazyCompile,0x2b595ab221a0,652,"TypeError",0x123f28c31e08,
+code-creation,LazyCompile,0x2b595ab221a0,652,"RangeError",0x123f28c31ea8,
+code-creation,LazyCompile,0x2b595ab221a0,652,"SyntaxError",0x123f28c31f48,
+code-creation,LazyCompile,0x2b595ab221a0,652,"ReferenceError",0x123f28c31fe8,
+code-creation,LazyCompile,0x2b595ab221a0,652,"EvalError",0x123f28c32088,
+code-creation,LazyCompile,0x2b595ab221a0,652,"URIError",0x123f28c32128,
+code-creation,LazyCompile,0x2b595ab22440,276," native messages.js:131",0x123f28c323e0,
+code-creation,Script,0x2b595ab22560,368,"native apinatives.js",0x123f28c325c0,
+code-creation,Script,0x2b595ab226e0,348,"native uri.js",0x123f28c32a70,
+code-creation,LazyCompile,0x2b595ab22840,476,"SetUpUri native uri.js:410",0x123f28c345a0,
+code-creation,Script,0x2b595ab22a20,564,"native regexp.js",0x123f28c346f8,
+code-creation,LazyCompile,0x2b595ab22c60,404,"RegExpConstructor native regexp.js:86",0x123f28c35990,
+code-creation,LazyCompile,0x2b595ab22e00,280,"RegExpMakeCaptureGetter native regexp.js:360",0x123f28c36230,
+code-creation,LazyCompile,0x2b595ab22f20,2308,"SetUpRegExp native regexp.js:400",0x123f28c363d8,
+code-creation,LazyCompile,0x2b595ab23840,115,"",0x123f28c381a0,
+code-creation,LazyCompile,0x2b595ab23840,115,"",0x123f28c38240,
+code-creation,LazyCompile,0x2b595ab23840,115,"OpaqueReference",0x123f28c382e0,
+code-creation,LazyCompile,0x2b595ab23840,115,"JSON",0x123f28c38380,
+code-creation,LazyCompile,0x2b595ab22440,276,"Script",0x123f28c38420,
+code-creation,LazyCompile,0x2b595ab23840,115,"",0x123f28c384c0,
+code-creation,LazyCompile,0x2b595ab19140,424,"Number",0x123f28c38560,
+code-creation,LazyCompile,0x2b595ab18e00,380,"Boolean",0x123f28c38600,
+code-creation,LazyCompile,0x2b595ab19d60,476,"String",0x123f28c386a0,
+code-creation,LazyCompile,0x2b595ab288a0,831,"Array",0x123f28c38740,
+code-creation,LazyCompile,0x2b595ab23a40,115,"pop",0x123f28c387e0,
+code-creation,LazyCompile,0x2b595ab239c0,115,"push",0x123f28c38880,
+code-creation,LazyCompile,0x2b595ab23cc0,115,"concat",0x123f28c38920,
+code-creation,LazyCompile,0x2b595ab23ac0,115,"shift",0x123f28c389c0,
+code-creation,LazyCompile,0x2b595ab23b40,115,"unshift",0x123f28c38a60,
+code-creation,LazyCompile,0x2b595ab23bc0,115,"slice",0x123f28c38b00,
+code-creation,LazyCompile,0x2b595ab23c40,115,"splice",0x123f28c38ba0,
+code-creation,LazyCompile,0x2b595ab1b500,1720,"Date",0x123f28c38c40,
+code-creation,LazyCompile,0x2b595ab18780,1148,"Function",0x123f28c38ce0,
+code-creation,LazyCompile,0x2b595ab22c60,404,"RegExp",0x123f28c38d80,
+code-creation,LazyCompile,0x2b595ab23840,115,"",0x123f28c38e20,
+code-creation,LazyCompile,0x2b595ab28560,831,"InternalArray",0x123f28c38ec0,
+code-creation,LazyCompile,0x2b595ab18f80,440,"Object",0x123f28c38f88,
+code-creation,LazyCompile,0x2b595ab28160,483,"call",0x123f28c39028,
+code-creation,LazyCompile,0x2b595ab28360,492,"apply",0x123f28c390c8,
+code-creation,LazyCompile,0x2b595ab23840,115,"Arguments",0x123f28c39168,
+code-creation,LazyCompile,0x2b595ab23f40,115,"ThrowTypeError",0x123f28c39208,
+code-creation,LazyCompile,0x2b595ab23e40,115,"",0x123f28c392a8,
+code-creation,LazyCompile,0x2b595ab23ec0,115,"",0x123f28c39348,
+code-creation,LazyCompile,0x2b595ab23840,115,"",0x123f28c393e8,
+tick,0x7fff6b91460f,0x7fff5fbfea60,0,0x7fff5fbfeac0,2
+code-creation,LazyCompile,0x2b595ab29c40,680,"Instantiate native apinatives.js:44",0x123f28c32828,~
+code-creation,Stub,0x2b595ab29f00,184,"CompareICStub"
+code-creation,Stub,0x2b595ab29fc0,143,"BinaryOpStub_BIT_AND_Alloc_Uninitialized"
+code-creation,LazyCompile,0x2b595ab2a060,1232,"InstantiateFunction native apinatives.js:65",0x123f28c328c8,
+code-creation,Stub,0x2b595ab2a540,446,"KeyedStoreElementStub"
+code-creation,KeyedStoreIC,0x2b595ab2a700,130,""
+code-creation,KeyedStoreIC,0x2b595ab2a700,130,"args_count: 0"
+code-creation,Stub,0x2b595ab2a7a0,257,"KeyedStoreElementStub"
+code-creation,KeyedStoreIC,0x2b595ab2a8c0,130,""
+code-creation,KeyedStoreIC,0x2b595ab2a8c0,130,"args_count: 0"
+code-creation,Stub,0x2b595ab2a960,276,"BinaryOpStub_BIT_AND_Alloc_SMI"
+code-creation,Stub,0x2b595ab2aa80,138,"ToBooleanStub_Smi"
+tick,0x7fff6b92558d,0x7fff5fbfe3b0,0,0x7fff5fbfe3f0,2,0x2b595ab2a4ca,0x2b595ab29daa
+code-creation,LazyCompile,0x2b595ab2ab20,916,"ConfigureTemplateInstance native apinatives.js:105",0x123f28c32968,
+code-creation,Stub,0x2b595ab2aec0,204,"KeyedLoadElementStub"
+code-creation,KeyedLoadIC,0x2b595ab2afa0,130,""
+code-creation,KeyedLoadIC,0x2b595ab2afa0,130,"args_count: 0"
+code-creation,CallIC,0x2b595ab2b040,190,"InstantiateFunction"
+code-creation,LoadIC,0x2b595ab2b100,147,"kApiFunctionCache"
+code-creation,LoadIC,0x2b595ab2b100,147,"kApiFunctionCache"
+code-creation,CallIC,0x2b595ab2b1a0,190,"ConfigureTemplateInstance"
+code-creation,Stub,0x2b595ab2b260,173,"ToBooleanStub_UndefinedSpecObject"
+code-creation,KeyedLoadIC,0x2b595ab2b320,130,""
+code-creation,KeyedLoadIC,0x2b595ab2b320,130,"args_count: 0"
+code-creation,CallIC,0x2b595ab2b3c0,190,"Instantiate"
+tick,0x7fff6b919337,0x7fff5fbff6f8,0,0x0,5
+tick,0x100250060,0x7fff5fbfdc48,0,0x0,2
+code-creation,Stub,0x2b595ab2b480,250,"FastNewContextStub"
+code-creation,Stub,0x2b595ab2b580,1757,"RecordWriteStub"
+tick,0x100133ae2,0x7fff5fbfe818,0,0x0,2
+code-creation,Stub,0x2b595ab2bc60,311,"CallFunctionStub_Args0_Recording"
+code-creation,Function,0x2b595ab2bda0,2388," node.js:27",0x123f28c5e590,~
+code-creation,Script,0x2b595ab2c700,244,"node.js",0x123f28c5e688,~
+code-creation,Stub,0x2b595ab2c800,177,"ToBooleanStub_UndefinedString"
+code-creation,Stub,0x2b595ab2c8c0,238,"FastCloneShallowObjectStub"
+code-creation,LazyCompile,0x2b595ab2c9c0,2760,"startup node.js:30",0x123f28c5d4f0,~
+code-creation,LazyCompile,0x2b595ab2d4a0,628,"NativeModule.require node.js:847",0x123f28c5e030,~
+tick,0x7fff968f0430,0x7fff5fbfea50,0,0x200000001,2,0x2b595ab2d5a0,0x2b595ab2ca69,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab2d720,220,"NativeModule.getCached node.js:871",0x123f28c5e0d0,~
+code-creation,LazyCompile,0x2b595ab2d800,232,"NativeModule.exists node.js:875",0x123f28c5e170,~
+code-creation,LazyCompile,0x2b595ab2d900,320,"NativeModule node.js:837",0x123f28c5d770,~
+code-creation,CallPreMonomorphic,0x2b595ab2da40,238,"args_count: 0"
+code-creation,LazyCompile,0x2b595ab2db40,236,"NativeModule.cache node.js:902",0x123f28c5e3f0,~
+code-creation,Stub,0x2b595ab2dc40,317,"CallFunctionStub_Args4_Recording"
+code-creation,LazyCompile,0x2b595ab2dd80,484,"NativeModule.compile node.js:892",0x123f28c5e350,~
+code-creation,LazyCompile,0x2b595ab2df80,220,"NativeModule.getSource node.js:879",0x123f28c5e210,~
+code-creation,LazyCompile,0x2b595ab2e060,272,"NativeModule.wrap node.js:883",0x123f28c5e2b0,~
+code-creation,KeyedLoadIC,0x2b595ab2e180,130,""
+code-creation,KeyedLoadIC,0x2b595ab2e180,130,"args_count: 0"
+code-creation,Stub,0x2b595ab2e220,201,"BinaryOpStub_ADD_OverwriteLeft_BothStrings"
+tick,0x1002ab8d1,0x7fff5fbfd390,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab2ca69,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab2e300,231,"FastNewContextStub"
+code-creation,Function,0x2b595ab2e400,1176," events.js:1",0x123f28c617f0,~
+code-creation,Script,0x2b595ab2e8a0,244,"events.js",0x123f28c618e8,~
+code-creation,StoreIC,0x2b595ab2e9a0,185,"loaded"
+code-creation,StoreIC,0x2b595ab2e9a0,185,"loaded"
+code-creation,StoreIC,0x2b595ab2ea60,185,"value"
+code-creation,StoreIC,0x2b595ab2ea60,185,"value"
+code-creation,StoreIC,0x2b595ab2eb20,185,"constructor"
+code-creation,StoreIC,0x2b595ab2eb20,185,"constructor"
+code-creation,LazyCompile,0x2b595ab2ebe0,576,"create native v8natives.js:1038",0x123f28c19aa8,~
+code-creation,LazyCompile,0x2b595ab2ee20,948,"defineProperties native v8natives.js:1102",0x123f28c19c88,~
+code-creation,LazyCompile,0x2b595ab2f1e0,692,"ToObject native runtime.js:567",0x123f28c2ac10,~
+code-creation,LazyCompile,0x2b595ab2f4a0,824,"GetOwnEnumerablePropertyNames native v8natives.js:1090",0x123f28c19be8,~
+code-creation,LazyCompile,0x2b595ab2f7e0,1956,"ToPropertyDescriptor native v8natives.js:420",0x123f28c18f68,~
+code-creation,LazyCompile,0x2b595ab2ffa0,528,"PropertyDescriptor native v8natives.js:482",0x123f28c190a8,~
+tick,0x100223942,0x7fff5fbfecb0,0,0x7fff5fbfeda0,0,0x2b595ab300aa,0x2b595ab2f949,0x2b595ab2efc2,0x2b595ab2edcd,0x2b595ab2cb49,0x2b595ab2c6a5
+code-creation,CallIC,0x2b595ab301c0,189,"ToString"
+code-creation,LazyCompile,0x2b595ab30280,248,"$Array.enumerable_ native v8natives.js:516",0x123f28c1b138,~
+code-creation,StoreIC,0x2b595ab30380,185,"value_"
+code-creation,StoreIC,0x2b595ab30380,185,"value_"
+code-creation,StoreIC,0x2b595ab30440,185,"hasValue_"
+code-creation,StoreIC,0x2b595ab30440,185,"hasValue_"
+code-creation,LazyCompile,0x2b595ab30500,276,"IsInconsistentDescriptor native v8natives.js:367",0x123f28c18d88,~
+code-creation,LazyCompile,0x2b595ab30620,340,"IsAccessorDescriptor native v8natives.js:347",0x123f28c18ba8,~
+code-creation,LazyCompile,0x2b595ab30780,220,"$Array.set_ native v8natives.js:563",0x123f28c1bbd8,~
+code-creation,LazyCompile,0x2b595ab30860,220," native v8natives.js:573",0x123f28c1bdf8,~
+code-creation,LazyCompile,0x2b595ab30940,436,"DefineOwnProperty native v8natives.js:924",0x123f28c19788,~
+code-creation,Stub,0x2b595ab30b00,143,"BinaryOpStub_BIT_OR_Alloc_Uninitialized"
+code-creation,LazyCompile,0x2b595ab30ba0,5024,"DefineObjectProperty native v8natives.js:695",0x123f28c19648,~
+code-creation,LazyCompile,0x2b595ab31f40,648,"ConvertDescriptorArrayToDescriptor native v8natives.js:581",0x123f28c19148,~
+code-creation,LazyCompile,0x2b595ab321e0,220,"$Array.writable_ native v8natives.js:533",0x123f28c1b528,~
+code-creation,Stub,0x2b595ab322c0,284,"BinaryOpStub_BIT_OR_Alloc_SMI"
+code-creation,LazyCompile,0x2b595ab323e0,220,"$Array.get_ native v8natives.js:550",0x123f28c1b918,~
+tick,0x7fff98ca5e9a,0x7fff5fbff008,0,0x7fff906d1970,2,0x2b595ab31aec,0x2b595ab30ade,0x2b595ab2f0c9,0x2b595ab2edcd,0x2b595ab2cb49,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab324c0,340,"IsDataDescriptor native v8natives.js:354",0x123f28c18c48,~
+code-creation,LazyCompile,0x2b595ab32620,220,"$Array.enumerable_ native v8natives.js:523",0x123f28c1b2e0,~
+code-creation,LazyCompile,0x2b595ab32700,220,"$Array.configurable_ native v8natives.js:543",0x123f28c1b798,~
+code-creation,LoadIC,0x2b595ab327e0,134,"hasValue_"
+code-creation,LoadIC,0x2b595ab327e0,134,"hasValue_"
+code-creation,LazyCompile,0x2b595ab32880,220,"$Array.enumerable_ native v8natives.js:520",0x123f28c1b240,~
+code-creation,Stub,0x2b595ab32960,364,"InstanceofStub"
+code-creation,LazyCompile,0x2b595ab32ae0,688,"EventEmitter events.js:26",0x123f28c61190,~
+code-creation,StoreIC,0x2b595ab32da0,189,"_events"
+code-creation,StoreIC,0x2b595ab32da0,189,"_events"
+code-creation,LazyCompile,0x2b595ab32e60,248,"startup.processFatal node.js:219",0x123f28c5da90,~
+code-creation,LazyCompile,0x2b595ab32f60,636,"startup.globalVariables node.js:160",0x123f28c5d810,~
+code-creation,CallIC,0x2b595ab331e0,157,"getCached"
+code-creation,LoadIC,0x2b595ab33280,138,"_cache"
+code-creation,LoadIC,0x2b595ab33280,138,"_cache"
+code-creation,CallIC,0x2b595ab33320,157,"exists"
+code-creation,LoadIC,0x2b595ab333c0,138,"_source"
+code-creation,LoadIC,0x2b595ab333c0,138,"_source"
+code-creation,Stub,0x2b595ab33460,1168,"StringDictionaryLookupStub"
+code-creation,CallIC,0x2b595ab33900,559,"hasOwnProperty"
+code-creation,LoadIC,0x2b595ab33b40,138,"moduleLoadList"
+code-creation,LoadIC,0x2b595ab33b40,138,"moduleLoadList"
+code-creation,Stub,0x2b595ab33be0,1708,"RecordWriteStub"
+code-creation,Stub,0x2b595ab342a0,754,"RecordWriteStub"
+code-creation,CallIC,0x2b595ab345a0,655,"push"
+code-creation,Stub,0x2b595ab34840,790,"RecordWriteStub"
+code-creation,StoreIC,0x2b595ab34b60,328,"filename"
+code-creation,StoreIC,0x2b595ab34b60,328,"filename"
+code-creation,StoreIC,0x2b595ab34cc0,328,"id"
+code-creation,StoreIC,0x2b595ab34cc0,328,"id"
+code-creation,StoreIC,0x2b595ab34e20,328,"exports"
+code-creation,StoreIC,0x2b595ab34e20,328,"exports"
+code-creation,StoreIC,0x2b595ab34f80,328,"loaded"
+code-creation,StoreIC,0x2b595ab34f80,328,"loaded"
+code-creation,CallMiss,0x2b595ab350e0,238,"args_count: 0"
+code-creation,CallIC,0x2b595ab351e0,185,"cache"
+code-creation,LoadIC,0x2b595ab352a0,134,"id"
+code-creation,LoadIC,0x2b595ab352a0,134,"id"
+code-creation,CallIC,0x2b595ab35340,185,"compile"
+code-creation,CallIC,0x2b595ab35400,157,"getSource"
+code-creation,CallIC,0x2b595ab354a0,157,"wrap"
+code-creation,LoadIC,0x2b595ab35540,138,"wrapper"
+code-creation,LoadIC,0x2b595ab35540,138,"wrapper"
+code-creation,LoadIC,0x2b595ab355e0,134,"filename"
+code-creation,LoadIC,0x2b595ab355e0,134,"filename"
+tick,0x1001860d3,0x7fff5fbfe8a0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+tick,0x1002573af,0x7fff5fbfd3a8,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab35680,265,"FastNewContextStub"
+code-creation,Function,0x2b595ab357a0,5216," buffer.js:1",0x123f28c65030,~
+code-creation,Script,0x2b595ab36c00,244,"buffer.js",0x123f28c65128,~
+code-creation,LoadIC,0x2b595ab36d00,134,"exports"
+code-creation,LoadIC,0x2b595ab36d00,134,"exports"
+code-creation,LoadIC,0x2b595ab36da0,140,"require"
+code-creation,LoadIC,0x2b595ab36da0,140,"require"
+code-creation,CallIC,0x2b595ab36e40,203,"Instantiate"
+tick,0x7fff93bba0c0,0x7fff5fbfedc0,1,0x100340b3b,5,0x2b595ab35a19,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,CallIC,0x2b595ab36f20,559,"hasOwnProperty"
+tick,0x1002ab8f2,0x7fff5fbfdb68,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab35a8f,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab37160,272,"FastNewContextStub"
+code-creation,Function,0x2b595ab37280,1892," assert.js:1",0x123f28c68930,~
+code-creation,Script,0x2b595ab37a00,244,"assert.js",0x123f28c68a28,~
+code-creation,CallIC,0x2b595ab37b00,559,"hasOwnProperty"
+tick,0x10025177f,0x7fff5fbfd4d0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab375c2,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab35a8f,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab37d40,349,"FastNewContextStub"
+code-creation,Function,0x2b595ab37ea0,3192," util.js:1",0x123f28c6a968,~
+code-creation,Script,0x2b595ab38b20,244,"util.js",0x123f28c6aa60,~
+code-creation,LazyCompile,0x2b595ab38c20,2144,"DoConstructRegExp native regexp.js:35",0x123f28c34938,~
+tick,0x1002adbe5,0x7fff5fbfead8,0,0x1002ae886,2,0x2b595ab38f8a,0x2b595ab22d26,0x2b595ab384f9,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab375c2,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab35a8f,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab39480,1704,"charAt native string.js:66",0x123f28c1e5d8,~
+code-creation,Stub,0x2b595ab39b40,211,"CompareICStub"
+code-creation,LazyCompile,0x2b595ab39c20,488,"exports.deprecate util.js:60",0x123f28c6a138,~
+code-creation,LoadIC,0x2b595ab39e20,157,"process"
+code-creation,LoadIC,0x2b595ab39e20,157,"process"
+code-creation,LoadIC,0x2b595ab39ec0,220,""
+code-creation,LoadIC,0x2b595ab39ec0,220,""
+code-creation,StoreIC,0x2b595ab39fa0,185,"exports"
+code-creation,StoreIC,0x2b595ab39fa0,185,"exports"
+code-creation,Stub,0x2b595ab3a060,262,"FastCloneShallowObjectStub"
+code-creation,LazyCompile,0x2b595ab3a180,404,"exports.inherits util.js:554",0x123f28c6a638,~
+code-creation,StoreIC,0x2b595ab3a320,185,"value"
+code-creation,StoreIC,0x2b595ab3a320,185,"value"
+code-creation,LoadIC,0x2b595ab3a3e0,147,"$Object"
+code-creation,LoadIC,0x2b595ab3a3e0,147,"$Object"
+code-creation,CallIC,0x2b595ab3a480,190,"ObjectDefineProperties"
+code-creation,CallIC,0x2b595ab3a540,190,"ToObject"
+code-creation,CallIC,0x2b595ab3a600,190,"GetOwnEnumerablePropertyNames"
+code-creation,LoadIC,0x2b595ab3a6c0,147,"InternalArray"
+code-creation,LoadIC,0x2b595ab3a6c0,147,"InternalArray"
+code-creation,CallIC,0x2b595ab3a760,655,"push"
+code-creation,KeyedLoadIC,0x2b595ab3aa00,154,"constructor"
+code-creation,KeyedLoadIC,0x2b595ab3aa00,154,"constructor"
+code-creation,CallIC,0x2b595ab3aaa0,190,"ToPropertyDescriptor"
+code-creation,LoadIC,0x2b595ab3ab60,147,"PropertyDescriptor"
+code-creation,LoadIC,0x2b595ab3ab60,147,"PropertyDescriptor"
+code-creation,StoreIC,0x2b595ab3ac00,300,"value_"
+code-creation,StoreIC,0x2b595ab3ac00,300,"value_"
+code-creation,StoreIC,0x2b595ab3ad40,300,"hasValue_"
+code-creation,StoreIC,0x2b595ab3ad40,300,"hasValue_"
+code-creation,StoreIC,0x2b595ab3ae80,300,"writable_"
+code-creation,StoreIC,0x2b595ab3ae80,300,"writable_"
+code-creation,StoreIC,0x2b595ab3afc0,300,"hasWritable_"
+code-creation,StoreIC,0x2b595ab3afc0,300,"hasWritable_"
+code-creation,StoreIC,0x2b595ab3b100,300,"enumerable_"
+code-creation,StoreIC,0x2b595ab3b100,300,"enumerable_"
+code-creation,StoreIC,0x2b595ab3b240,300,"hasEnumerable_"
+code-creation,StoreIC,0x2b595ab3b240,300,"hasEnumerable_"
+code-creation,StoreIC,0x2b595ab3b380,300,"configurable_"
+code-creation,StoreIC,0x2b595ab3b380,300,"configurable_"
+code-creation,StoreIC,0x2b595ab3b4c0,300,"hasConfigurable_"
+code-creation,StoreIC,0x2b595ab3b4c0,300,"hasConfigurable_"
+code-creation,StoreIC,0x2b595ab3b600,300,"get_"
+code-creation,StoreIC,0x2b595ab3b600,300,"get_"
+code-creation,StoreIC,0x2b595ab3b740,300,"hasGetter_"
+code-creation,StoreIC,0x2b595ab3b740,300,"hasGetter_"
+code-creation,StoreIC,0x2b595ab3b880,300,"set_"
+code-creation,StoreIC,0x2b595ab3b880,300,"set_"
+code-creation,StoreIC,0x2b595ab3b9c0,300,"hasSetter_"
+code-creation,StoreIC,0x2b595ab3b9c0,300,"hasSetter_"
+code-creation,LazyCompile,0x2b595ab3bb00,248,"$Array.writable_ native v8natives.js:526",0x123f28c1b380,~
+code-creation,StoreIC,0x2b595ab3bc00,185,"enumerable_"
+code-creation,StoreIC,0x2b595ab3bc00,185,"enumerable_"
+code-creation,StoreIC,0x2b595ab3bcc0,185,"hasEnumerable_"
+code-creation,StoreIC,0x2b595ab3bcc0,185,"hasEnumerable_"
+tick,0x1001341a3,0x7fff5fbfe600,0,0x0,2,0x2b595ab2fa2b,0x2b595ab2efc2,0x2b595ab2edcd,0x2b595ab3a2ba,0x2b595ab37708,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab35a8f,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab330d6,0x2b595ab2cbc5,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab3bd80,248,"$Array.get_ native v8natives.js:546",0x123f28c1b838,~
+code-creation,StoreIC,0x2b595ab3be80,185,"configurable_"
+code-creation,StoreIC,0x2b595ab3be80,185,"configurable_"
+code-creation,StoreIC,0x2b595ab3bf40,185,"hasConfigurable_"
+code-creation,StoreIC,0x2b595ab3bf40,185,"hasConfigurable_"
+code-creation,LoadIC,0x2b595ab3c000,134,"value"
+code-creation,LoadIC,0x2b595ab3c000,134,"value"
+code-creation,CallIC,0x2b595ab3c0a0,238,"setValue"
+code-creation,LazyCompile,0x2b595ab3c1a0,248,"$Array.configurable_ native v8natives.js:536",0x123f28c1b5c8,~
+code-creation,StoreIC,0x2b595ab3c2a0,185,"writable_"
+code-creation,StoreIC,0x2b595ab3c2a0,185,"writable_"
+code-creation,StoreIC,0x2b595ab3c360,185,"hasWritable_"
+code-creation,StoreIC,0x2b595ab3c360,185,"hasWritable_"
+code-creation,CallIC,0x2b595ab3c420,190,"IsInconsistentDescriptor"
+code-creation,CallIC,0x2b595ab3c4e0,190,"IsAccessorDescriptor"
+code-creation,CallIC,0x2b595ab3c5a0,235,"hasGetter"
+code-creation,LoadIC,0x2b595ab3c6a0,134,"hasGetter_"
+code-creation,LoadIC,0x2b595ab3c6a0,134,"hasGetter_"
+code-creation,CallIC,0x2b595ab3c740,232,"hasSetter"
+code-creation,LoadIC,0x2b595ab3c840,134,"hasSetter_"
+code-creation,LoadIC,0x2b595ab3c840,134,"hasSetter_"
+code-creation,CallMiss,0x2b595ab3c8e0,243,"args_count: 4"
+code-creation,CallIC,0x2b595ab3c9e0,190,"DefineOwnProperty"
+code-creation,CallIC,0x2b595ab3caa0,190,"DefineObjectProperty"
+code-creation,CallIC,0x2b595ab3cb60,190,"ToString"
+code-creation,CallIC,0x2b595ab3cc20,190,"ConvertDescriptorArrayToDescriptor"
+code-creation,CallIC,0x2b595ab3cce0,235,"hasEnumerable"
+code-creation,LoadIC,0x2b595ab3cde0,134,"hasEnumerable_"
+code-creation,LoadIC,0x2b595ab3cde0,134,"hasEnumerable_"
+code-creation,LazyCompile,0x2b595ab3ce80,220,"$Array.writable_ native v8natives.js:530",0x123f28c1b488,~
+code-creation,CallIC,0x2b595ab3cf60,232,"hasConfigurable"
+code-creation,LoadIC,0x2b595ab3d060,134,"hasConfigurable_"
+code-creation,LoadIC,0x2b595ab3d060,134,"hasConfigurable_"
+code-creation,LazyCompile,0x2b595ab3d100,220,"$Array.get_ native v8natives.js:553",0x123f28c1b9b8,~
+code-creation,CallIC,0x2b595ab3d1e0,190,"IsDataDescriptor"
+code-creation,CallIC,0x2b595ab3d2a0,235,"hasValue"
+code-creation,CallIC,0x2b595ab3d3a0,232,"hasWritable"
+code-creation,LoadIC,0x2b595ab3d4a0,134,"hasWritable_"
+code-creation,LoadIC,0x2b595ab3d4a0,134,"hasWritable_"
+code-creation,LazyCompile,0x2b595ab3d540,220,"$Array.configurable_ native v8natives.js:540",0x123f28c1b6f8,~
+code-creation,CallIC,0x2b595ab3d620,235,"getValue"
+code-creation,LoadIC,0x2b595ab3d720,134,"value_"
+code-creation,LoadIC,0x2b595ab3d720,134,"value_"
+code-creation,StoreIC,0x2b595ab3d7c0,189,"domain"
+code-creation,StoreIC,0x2b595ab3d7c0,189,"domain"
+code-creation,LazyCompile,0x2b595ab3d880,668,"startup.globalTimeouts node.js:171",0x123f28c5d8b0,~
+tick,0x100185e1f,0x7fff5fbfe610,0,0x7fff5fbff1f8,2,0x2b595ab2cbf9,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab3db20,252,"startup.globalConsole node.js:203",0x123f28c5d950,~
+code-creation,LazyCompile,0x2b595ab3dc20,816,"__defineGetter__ native v8natives.js:281",0x123f28c18888,~
+code-creation,LazyCompile,0x2b595ab3df60,248,"$Array.set_ native v8natives.js:556",0x123f28c1ba58,~
+code-creation,StoreIC,0x2b595ab3e060,185,"get_"
+code-creation,StoreIC,0x2b595ab3e060,185,"get_"
+code-creation,StoreIC,0x2b595ab3e120,185,"hasGetter_"
+code-creation,StoreIC,0x2b595ab3e120,185,"hasGetter_"
+code-creation,CallIC,0x2b595ab3e1e0,235,"isEnumerable"
+code-creation,LoadIC,0x2b595ab3e2e0,134,"enumerable_"
+code-creation,LoadIC,0x2b595ab3e2e0,134,"enumerable_"
+code-creation,CallIC,0x2b595ab3e380,232,"isConfigurable"
+code-creation,LoadIC,0x2b595ab3e480,134,"configurable_"
+code-creation,LoadIC,0x2b595ab3e480,134,"configurable_"
+code-creation,LazyCompile,0x2b595ab3e520,360,"IsGenericDescriptor native v8natives.js:361",0x123f28c18ce8,~
+code-creation,LazyCompile,0x2b595ab3e6a0,220,"$Array.set_ native v8natives.js:560",0x123f28c1bb38,~
+code-creation,LazyCompile,0x2b595ab3e780,308,"startup.processAssert node.js:294",0x123f28c5db30,~
+code-creation,LazyCompile,0x2b595ab3e8c0,716,"startup.processConfig node.js:303",0x123f28c5dbd0,~
+code-creation,Stub,0x2b595ab3eba0,143,"BinaryOpStub_SHR_Alloc_Uninitialized"
+code-creation,LazyCompile,0x2b595ab3ec40,1196,"split native string.js:554",0x123f28c1ef38,~
+code-creation,Stub,0x2b595ab3f100,240,"CompareICStub"
+code-creation,LazyCompile,0x2b595ab3f200,1452,"join native array.js:410",0x123f28c13238,~
+code-creation,Stub,0x2b595ab3f7c0,313,"BinaryOpStub_SHR_Alloc_SMI"
+tick,0x100325b03,0x7fff5fbfe7b0,0,0x200000102ff4000,2,0x2b595ab3f796,0x2b595ab3e9ee,0x2b595ab2cc2d,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab3f900,4088,"Join native array.js:119",0x123f28c12c98,
+code-creation,LazyCompile,0x2b595ab40900,456,"UseSparseVariant native array.js:111",0x123f28c12bf8,~
+code-creation,Stub,0x2b595ab40ae0,192,"CompareICStub"
+code-creation,KeyedLoadIC,0x2b595ab40ba0,130,""
+code-creation,KeyedLoadIC,0x2b595ab40ba0,130,"args_count: 0"
+code-creation,Stub,0x2b595ab40c40,299,"BinaryOpStub_SUB_Alloc_SMI"
+code-creation,LazyCompile,0x2b595ab40d80,328,"ToUint32 native runtime.js:586",0x123f28c2ad50,~
+code-creation,CallMiss,0x2b595ab40ee0,243,"args_count: 3"
+code-creation,CallIC,0x2b595ab40fe0,190,"DoConstructRegExp"
+code-creation,LoadIC,0x2b595ab410a0,147,"StringCharAt"
+code-creation,LoadIC,0x2b595ab410a0,147,"StringCharAt"
+code-creation,LazyCompile,0x2b595ab41140,2468,"replace native string.js:221",0x123f28c1ead8,~
+code-creation,LazyCompile,0x2b595ab41b00,572,"parse native json.js:55",0x123f28c2bf10,~
+code-creation,LazyCompile,0x2b595ab41d40,1512,"Revive native json.js:30",0x123f28c2b2f8,~
+code-creation,KeyedLoadIC,0x2b595ab42340,158,"target_defaults"
+code-creation,KeyedLoadIC,0x2b595ab42340,158,"target_defaults"
+code-creation,LoadIC,0x2b595ab423e0,147,"ObjectHasOwnProperty"
+code-creation,LoadIC,0x2b595ab423e0,147,"ObjectHasOwnProperty"
+code-creation,CallIC,0x2b595ab42480,190,"Revive"
+code-creation,KeyedLoadIC,0x2b595ab42540,158,"cflags"
+code-creation,KeyedLoadIC,0x2b595ab42540,158,"cflags"
+tick,0x1001810cd,0x7fff5fbff1a0,0,0x5b40,0,0x2b595ab41f40,0x2b595ab421b2,0x2b595ab421b2,0x2b595ab41cde,0x2b595ab3eb33,0x2b595ab2cc2d,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab425e0,312," node.js:311",0x123f28c6d028,~
+code-creation,KeyedStoreIC,0x2b595ab42720,208,"cflags"
+code-creation,KeyedStoreIC,0x2b595ab42720,208,"cflags"
+code-creation,KeyedStoreIC,0x2b595ab42800,208,"default_configuration"
+code-creation,KeyedStoreIC,0x2b595ab42800,208,"default_configuration"
+code-creation,LazyCompile,0x2b595ab428e0,516,"NonStringToString native runtime.js:558",0x123f28c2ab70,~
+code-creation,KeyedStoreIC,0x2b595ab42b00,130,""
+code-creation,KeyedStoreIC,0x2b595ab42b00,130,"args_count: 0"
+code-creation,CallIC,0x2b595ab42ba0,190,"$String"
+code-creation,CallIC,0x2b595ab42c60,190,"NonStringToString"
+code-creation,Stub,0x2b595ab42d20,261,"FastNewContextStub"
+code-creation,LazyCompile,0x2b595ab42e40,1300,"startup.processNextTick node.js:318",0x123f28c5dc70,~
+code-creation,LazyCompile,0x2b595ab43360,456,"startup.processStdio node.js:612",0x123f28c5dd10,~
+code-creation,CallIC,0x2b595ab43540,235,"setGet"
+code-creation,CallIC,0x2b595ab43640,238,"setEnumerable"
+code-creation,CallIC,0x2b595ab43740,238,"setConfigurable"
+code-creation,CallIC,0x2b595ab43840,190,"IsGenericDescriptor"
+code-creation,CallIC,0x2b595ab43900,235,"getGet"
+code-creation,LoadIC,0x2b595ab43a00,134,"get_"
+code-creation,LoadIC,0x2b595ab43a00,134,"get_"
+code-creation,LazyCompile,0x2b595ab43aa0,316,"startup.processKillAndExit node.js:707",0x123f28c5ddb0,~
+tick,0x7fff906d3b54,0x7fff5fbfe990,0,0x59cc000059c5,2,0x2b595ab2cc7b,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab43be0,656,"startup.processSignalHandlers node.js:740",0x123f28c5de50,~
+code-creation,LazyCompile,0x2b595ab43e80,632,"startup.processChannel node.js:792",0x123f28c5def0,~
+code-creation,LazyCompile,0x2b595ab44100,620,"startup.resolveArgv0 node.js:814",0x123f28c5df90,~
+code-creation,Stub,0x2b595ab44380,370,"CompareICStub"
+code-creation,LazyCompile,0x2b595ab44500,908,"indexOf native string.js:118",0x123f28c1e7b8,~
+code-creation,CallIC,0x2b595ab448a0,559,"hasOwnProperty"
+code-creation,Stub,0x2b595ab44ae0,370,"CompareICStub"
+code-creation,Stub,0x2b595ab44c60,166,"ToBooleanStub_String"
+code-creation,CallIC,0x2b595ab44d20,559,"hasOwnProperty"
+code-creation,LoadIC,0x2b595ab44f60,138,"moduleLoadList"
+code-creation,LoadIC,0x2b595ab44f60,138,"moduleLoadList"
+tick,0x10024d1ae,0x7fff5fbfcdb8,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab2cea4,0x2b595ab2c6a5
+tick,0x7fff8e0024c2,0x7fff5fbfe3a0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab2cea4,0x2b595ab2c6a5
+code-creation,Function,0x2b595ab45000,2824," path.js:1",0x123f28c6f858,~
+code-creation,Script,0x2b595ab45b20,244,"path.js",0x123f28c6f950,~
+code-creation,LoadIC,0x2b595ab45c20,157,"process"
+code-creation,LoadIC,0x2b595ab45c20,157,"process"
+code-creation,LoadIC,0x2b595ab45cc0,220,""
+code-creation,LoadIC,0x2b595ab45cc0,220,""
+code-creation,LazyCompile,0x2b595ab45da0,1220,"exports.resolve path.js:304",0x123f28c6f050,~
+code-creation,KeyedLoadIC,0x2b595ab46280,130,""
+code-creation,KeyedLoadIC,0x2b595ab46280,130,"args_count: 0"
+code-creation,CallIC,0x2b595ab46320,781,"charAt"
+code-creation,LazyCompile,0x2b595ab46640,1976,"filter native array.js:1036",0x123f28c13918,~
+code-creation,LazyCompile,0x2b595ab46e00,216," path.js:326",0x123f28c6fcb0,~
+code-creation,LazyCompile,0x2b595ab46ee0,928,"normalizeArray path.js:31",0x123f28c6eb50,~
+code-creation,CallIC,0x2b595ab47280,559,"hasOwnProperty"
+tick,0x100251c90,0x7fff5fbfde18,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab2cfd9,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab474c0,307,"FastNewContextStub"
+code-creation,Function,0x2b595ab47600,3632," module.js:1",0x123f28c71430,~
+code-creation,Script,0x2b595ab48440,244,"module.js",0x123f28c71528,~
+code-creation,KeyedLoadIC,0x2b595ab48540,158,"assert"
+tick,0x7fff93bba038,0x7fff5fbfe720,0,0x7fff5fbfe780,0,0x2b595ab2d7b2,0x2b595ab2d5a0,0x2b595ab479fc,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab2cfd9,0x2b595ab2c6a5
+code-creation,KeyedLoadIC,0x2b595ab48540,158,"assert"
+code-creation,Stub,0x2b595ab485e0,466,"CompareStub_GT"
+code-creation,Stub,0x2b595ab487c0,286,"CompareICStub"
+code-creation,KeyedLoadIC,0x2b595ab488e0,158,"path"
+code-creation,KeyedLoadIC,0x2b595ab488e0,158,"path"
+code-creation,CallInitialize,0x2b595ab48980,241,"args_count: 5"
+code-creation,LazyCompile,0x2b595ab48a80,1032,"Module._initPaths module.js:502",0x123f28c71130,~
+code-creation,CallPreMonomorphic,0x2b595ab48ea0,241,"args_count: 5"
+code-creation,LoadIC,0x2b595ab48fa0,134,"length"
+code-creation,LoadIC,0x2b595ab48fa0,134,"length"
+code-creation,CallIC,0x2b595ab49040,218,"split"
+code-creation,CallIC,0x2b595ab49120,200,"filter"
+code-creation,CallIC,0x2b595ab49200,190,"ToUint32"
+code-creation,LoadIC,0x2b595ab492c0,147,"$Array"
+code-creation,LoadIC,0x2b595ab492c0,147,"$Array"
+code-creation,CallMiss,0x2b595ab49360,241,"args_count: 2"
+code-creation,CallIC,0x2b595ab49460,192,"splice"
+code-creation,CallIC,0x2b595ab49520,187,"join"
+code-creation,LoadIC,0x2b595ab495e0,147,"ConvertToString"
+code-creation,LoadIC,0x2b595ab495e0,147,"ConvertToString"
+code-creation,CallIC,0x2b595ab49680,190,"Join"
+code-creation,LoadIC,0x2b595ab49740,147,"visited_arrays"
+code-creation,LoadIC,0x2b595ab49740,147,"visited_arrays"
+code-creation,CallIC,0x2b595ab497e0,190,"UseSparseVariant"
+code-creation,StoreIC,0x2b595ab498a0,189,"globalPaths"
+code-creation,StoreIC,0x2b595ab498a0,189,"globalPaths"
+code-creation,CallInitialize,0x2b595ab49960,241,"args_count: 3"
+code-creation,LazyCompile,0x2b595ab49a60,316,"Module.runMain module.js:495",0x123f28c71090,~
+code-creation,CallPreMonomorphic,0x2b595ab49ba0,241,"args_count: 3"
+code-creation,LazyCompile,0x2b595ab49ca0,1296,"Module._load module.js:275",0x123f28c70c30,
+code-creation,Stub,0x2b595ab4a1c0,142,"ToBooleanStub_Null"
+code-creation,LazyCompile,0x2b595ab4a260,688,"Module._resolveFilename module.js:323",0x123f28c70cd0,~
+code-creation,CallIC,0x2b595ab4a520,559,"hasOwnProperty"
+tick,0x7fff98ca5e9a,0x7fff5fbfefb8,0,0x7fff906d1970,0,0x2b595ab2d89a,0x2b595ab4a2f2,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab4a760,2196,"Module._resolveLookupPaths module.js:231",0x123f28c70b90,~
+code-creation,CallIC,0x2b595ab4b000,559,"hasOwnProperty"
+code-creation,Stub,0x2b595ab4b240,755,"SubStringStub"
+code-creation,LazyCompile,0x2b595ab4b540,1636,"substring native string.js:658",0x123f28c1f078,~
+code-creation,LazyCompile,0x2b595ab4bbc0,2328,"stringify native json.js:308",0x123f28c2c370,~
+code-creation,LazyCompile,0x2b595ab4c4e0,2084,"BasicJSONSerialize native json.js:274",0x123f28c2c2d0,~
+code-creation,CallIC,0x2b595ab4cd20,190,"BasicJSONSerialize"
+code-creation,LazyCompile,0x2b595ab4cde0,2736,"BasicSerializeArray native json.js:181",0x123f28c2c190,~
+code-creation,LazyCompile,0x2b595ab4d8a0,184,"Module._debug module.js:65",0x123f28c70910,~
+tick,0x100258a44,0x7fff5fbfe4d8,0,0x100258860,2,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab4d960,1316,"Module._findPath module.js:160",0x123f28c70a50,~
+code-creation,LazyCompile,0x2b595ab4dea0,524,"keys native v8natives.js:333",0x123f28c18b08,~
+code-creation,LazyCompile,0x2b595ab4e0c0,1148,"slice native string.js:510",0x123f28c1ee98,~
+code-creation,Stub,0x2b595ab4e540,192,"CompareICStub"
+code-creation,LazyCompile,0x2b595ab4e600,820,"SubString native string.js:205",0x123f28c1ea38,~
+code-creation,StoreIC,0x2b595ab4e940,185,"request"
+code-creation,StoreIC,0x2b595ab4e940,185,"request"
+code-creation,StoreIC,0x2b595ab4ea00,185,"paths"
+code-creation,StoreIC,0x2b595ab4ea00,185,"paths"
+code-creation,LoadIC,0x2b595ab4eac0,164,""
+code-creation,LoadIC,0x2b595ab4eac0,164,""
+code-creation,LazyCompile,0x2b595ab4eb80,1036,"BasicSerializeObject native json.js:244",0x123f28c2c230,~
+code-creation,KeyedLoadIC,0x2b595ab4efa0,154,"paths"
+code-creation,KeyedLoadIC,0x2b595ab4efa0,154,"paths"
+code-creation,LoadIC,0x2b595ab4f040,194,""
+code-creation,LoadIC,0x2b595ab4f040,194,""
+code-creation,CallIC,0x2b595ab4f120,190,"BasicSerializeArray"
+code-creation,LazyCompile,0x2b595ab4f1e0,400,"tryFile module.js:138",0x123f28c70730,~
+code-creation,CallIC,0x2b595ab4f380,559,"hasOwnProperty"
+tick,0x1001721f2,0x7fff5fbfd038,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+tick,0x1002a91f2,0x7fff5fbfd4f0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+tick,0x1002a9743,0x7fff5fbfcb70,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab4f5c0,475,"FastNewContextStub"
+tick,0x1002fa0fd,0x7fff5fbfe140,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Function,0x2b595ab4f7a0,12936," fs.js:1",0x123f28c773e0,~
+code-creation,Script,0x2b595ab52a40,244,"fs.js",0x123f28c774d8,~
+code-creation,CallIC,0x2b595ab52b40,559,"hasOwnProperty"
+code-creation,Function,0x2b595ab52d80,900," stream.js:1",0x123f28c7a2c8,~
+code-creation,Script,0x2b595ab53120,244,"stream.js",0x123f28c7a3c0,~
+tick,0x1001d93d6,0x7fff5fbff0a0,0,0x103000298,0,0x2b595ab52e2d,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4feff,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LoadIC,0x2b595ab53220,157,"Object"
+code-creation,LoadIC,0x2b595ab53220,157,"Object"
+code-creation,CallIC,0x2b595ab532c0,157,"create"
+code-creation,LoadIC,0x2b595ab53360,134,"enumerable"
+code-creation,LoadIC,0x2b595ab53360,134,"enumerable"
+code-creation,CallIC,0x2b595ab53400,190,"ToBoolean"
+code-creation,LoadIC,0x2b595ab534c0,134,"configurable"
+code-creation,LoadIC,0x2b595ab534c0,134,"configurable"
+code-creation,LoadIC,0x2b595ab53560,134,"writable"
+code-creation,LoadIC,0x2b595ab53560,134,"writable"
+code-creation,CallIC,0x2b595ab53600,235,"setWritable"
+code-creation,CallIC,0x2b595ab53700,232,"isWritable"
+code-creation,LoadIC,0x2b595ab53800,134,"writable_"
+code-creation,LoadIC,0x2b595ab53800,134,"writable_"
+tick,0x100259710,0x7fff5fbfcca0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab52f29,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4feff,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Function,0x2b595ab538a0,2888," _stream_readable.js:1",0x123f28c7ba80,~
+code-creation,Script,0x2b595ab54400,244,"_stream_readable.js",0x123f28c7bb78,~
+tick,0x100258e47,0x7fff5fbfd6d8,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab52f6e,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4feff,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab54500,314,"FastNewContextStub"
+code-creation,Function,0x2b595ab54640,1840," _stream_writable.js:1",0x123f28c7cf48,~
+code-creation,Script,0x2b595ab54d80,244,"_stream_writable.js",0x123f28c7d040,~
+code-creation,Function,0x2b595ab54e80,740," _stream_duplex.js:1",0x123f28c7d5a0,~
+code-creation,Script,0x2b595ab55180,244,"_stream_duplex.js",0x123f28c7d698,~
+code-creation,StoreIC,0x2b595ab55280,256,"super_"
+code-creation,StoreIC,0x2b595ab55280,256,"super_"
+tick,0x10021fcf4,0x7fff5fbfed70,0,0x7fff5fbfedc0,0,0x2b595ab1ea11,0x2b595ab2fcdf,0x2b595ab2efc2,0x2b595ab2edcd,0x2b595ab3a2ba,0x2b595ab550b7,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab52fb3,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4feff,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab55380,1692,"forEach native array.js:1087",0x123f28c139b8,~
+code-creation,LazyCompile,0x2b595ab55a20,296,"readable _stream_duplex.js:34",0x123f28c7d400,~
+code-creation,KeyedLoadIC,0x2b595ab55b60,160,"_write"
+code-creation,KeyedLoadIC,0x2b595ab55b60,160,"_write"
+code-creation,KeyedLoadIC,0x2b595ab55c00,160,"end"
+code-creation,KeyedLoadIC,0x2b595ab55c00,160,"end"
+code-creation,Stub,0x2b595ab55ca0,232,"FastNewContextStub"
+code-creation,Function,0x2b595ab55da0,984," _stream_transform.js:1",0x123f28c7df70,~
+code-creation,Script,0x2b595ab56180,244,"_stream_transform.js",0x123f28c7e068,~
+code-creation,Stub,0x2b595ab56280,226,"FastNewContextStub"
+code-creation,Function,0x2b595ab56380,560," _stream_passthrough.js:1",0x123f28c7e4f8,~
+code-creation,Script,0x2b595ab565c0,244,"_stream_passthrough.js",0x123f28c7e5f0,~
+tick,0x1002260cb,0x7fff5fbff0b0,0,0x3fbd28f00000,0,0x2b595ab4ff90,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab4f278,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,StoreIC,0x2b595ab566c0,185,"value"
+code-creation,StoreIC,0x2b595ab566c0,185,"value"
+code-creation,LazyCompile,0x2b595ab56780,1088,"defineProperty native v8natives.js:1050",0x123f28c19b48,~
+code-creation,LoadIC,0x2b595ab56bc0,134,"enumerable"
+code-creation,LoadIC,0x2b595ab56bc0,134,"enumerable"
+code-creation,LoadIC,0x2b595ab56c60,134,"value"
+code-creation,LoadIC,0x2b595ab56c60,134,"value"
+code-creation,LazyCompile,0x2b595ab56d00,384,"statPath module.js:88",0x123f28c70550,
+code-creation,LazyCompile,0x2b595ab56e80,288,"fs.statSync fs.js:693",0x123f28c751b8,~
+code-creation,LazyCompile,0x2b595ab56fa0,588,"nullCheck fs.js:117",0x123f28c72f58,~
+code-creation,LazyCompile,0x2b595ab57200,192,"exports._makeLong path.js:484",0x123f28c6f690,~
+code-creation,LazyCompile,0x2b595ab572c0,280,"CreateDate native apinatives.js:33",0x123f28c32710,~
+code-creation,LazyCompile,0x2b595ab573e0,476,"setTime native date.js:482",0x123f28c25948,~
+code-creation,LoadIC,0x2b595ab575c0,147,"$Date"
+code-creation,LoadIC,0x2b595ab575c0,147,"$Date"
+code-creation,CallIC,0x2b595ab57660,187,"setTime"
+code-creation,CallIC,0x2b595ab57720,190,"ToNumber"
+code-creation,LazyCompile,0x2b595ab577e0,232,"fs.Stats.isDirectory fs.js:136",0x123f28c738b8,~
+code-creation,LazyCompile,0x2b595ab578e0,280,"fs.Stats._checkModeProperty fs.js:132",0x123f28c73818,~
+tick,0x7fff906ca515,0x7fff5fbff018,0,0x100202382,2,0x2b595ab5787a,0x2b595ab4f2d5,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab57a00,242,"FastNewContextStub"
+code-creation,LazyCompile,0x2b595ab57b00,2432,"realpathSync fs.js:1218",0x123f28c76838,~
+code-creation,LazyCompile,0x2b595ab58480,632,"start fs.js:1241",0x123f28c807a8,~
+code-creation,Stub,0x2b595ab58700,1001,"RegExpExecStub"
+code-creation,LazyCompile,0x2b595ab58b00,1040,"exec native regexp.js:168",0x123f28c35d30,~
+code-creation,RegExp,0x2b595ab58f20,846,"^[\\/]*"
+code-creation,StoreIC,0x2b595ab59280,150,"lastMatchInfoOverride"
+code-creation,StoreIC,0x2b595ab59280,150,"lastMatchInfoOverride"
+code-creation,Stub,0x2b595ab59320,296,"RegExpConstructResultStub"
+code-creation,LazyCompile,0x2b595ab59460,1992,"BuildResultFromMatchInfo native regexp.js:130",0x123f28c35bf0,~
+code-creation,KeyedStoreIC,0x2b595ab59c40,130,""
+code-creation,KeyedStoreIC,0x2b595ab59c40,130,"args_count: 0"
+code-creation,KeyedLoadIC,0x2b595ab59ce0,130,""
+code-creation,KeyedLoadIC,0x2b595ab59ce0,130,"args_count: 0"
+code-creation,StoreIC,0x2b595ab59d80,185,"lastIndex"
+code-creation,StoreIC,0x2b595ab59d80,185,"lastIndex"
+code-creation,LoadIC,0x2b595ab59e40,134,"lastIndex"
+code-creation,LoadIC,0x2b595ab59e40,134,"lastIndex"
+code-creation,LoadIC,0x2b595ab59ee0,134,"global"
+code-creation,LoadIC,0x2b595ab59ee0,134,"global"
+code-creation,LoadIC,0x2b595ab59f80,147,"lastMatchInfo"
+code-creation,LoadIC,0x2b595ab59f80,147,"lastMatchInfo"
+tick,0x1002d44e1,0x7fff5fbfe888,0,0x7fff5fbfef88,0,0x2b595ab58e23,0x2b595ab57df4,0x2b595ab4f314,0x2b595ab4dc64,0x2b595ab4a44d,0x2b595ab49db6,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,RegExp,0x2b595ab5a020,1134,"(.*?)(?:[\\/]+|$)"
+code-creation,CallIC,0x2b595ab5a4a0,190,"BuildResultFromMatchInfo"
+code-creation,LazyCompile,0x2b595ab5a560,288,"fs.lstatSync fs.js:688",0x123f28c75118,~
+code-creation,CallIC,0x2b595ab5a680,205,"indexOf"
+code-creation,LazyCompile,0x2b595ab5a760,232,"fs.Stats.isSymbolicLink fs.js:152",0x123f28c73b38,~
+code-creation,LoadIC,0x2b595ab5a860,138,"mode"
+code-creation,LoadIC,0x2b595ab5a860,138,"mode"
+code-creation,CallIC,0x2b595ab5a900,187,"exec"
+code-creation,LoadIC,0x2b595ab5a9c0,140,"hasOwnProperty"
+code-creation,LoadIC,0x2b595ab5a9c0,140,"hasOwnProperty"
+code-creation,CallIC,0x2b595ab5aa60,192,"call"
+code-creation,CallIC,0x2b595ab5ab20,157,"lstatSync"
+code-creation,CallIC,0x2b595ab5abc0,157,"_makeLong"
+code-creation,CallIC,0x2b595ab5ac60,552,"lstat"
+code-creation,CallIC,0x2b595ab5aea0,185,"isSymbolicLink"
+code-creation,CallIC,0x2b595ab5af60,185,"_checkModeProperty"
+code-creation,LazyCompile,0x2b595ab5b020,476,"Module module.js:37",0x123f28c704b0,~
+code-creation,StoreIC,0x2b595ab5b200,185,"id"
+code-creation,StoreIC,0x2b595ab5b200,185,"id"
+code-creation,KeyedCallInitialize,0x2b595ab5b2c0,194,"args_count: 2"
+code-creation,LazyCompile,0x2b595ab5b3a0,768,"Module.load module.js:346",0x123f28c70d70,~
+code-creation,Stub,0x2b595ab5b6a0,317,"CallFunctionStub_Args5_Recording"
+code-creation,LazyCompile,0x2b595ab5b7e0,296,"ok assert.js:111",0x123f28c67d28,~
+code-creation,StoreIC,0x2b595ab5b920,185,"filename"
+code-creation,StoreIC,0x2b595ab5b920,185,"filename"
+code-creation,LazyCompile,0x2b595ab5b9e0,420,"exports.dirname path.js:415",0x123f28c6f2d0,~
+tick,0x1002d3974,0x7fff5fbff288,0,0x100238284,0,0x2b595ab5b55e,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab5bba0,236,"splitPath path.js:298",0x123f28c6efb0,~
+code-creation,RegExp,0x2b595ab5bca0,2544,"^(\\/?|)([\\s\\S]*?)((?:\\.{1\,2}|[^\\/]+?|)(\\.[^.\\/]*|))(?:[\\/]*)$"
+code-creation,LazyCompile,0x2b595ab5c6a0,1728,"substr native string.js:695",0x123f28c1f118,~
+code-creation,LazyCompile,0x2b595ab5cd60,1380,"Module._nodeModulePaths module.js:207",0x123f28c70af0,~
+code-creation,LazyCompile,0x2b595ab5d2e0,3208,"StringSplitOnRegExp native string.js:591",0x123f28c1efd8,~
+code-creation,LazyCompile,0x2b595ab5df80,308,"DoRegExpExec native regexp.js:123",0x123f28c35b50,~
+code-creation,CallIC,0x2b595ab5e0c0,190,"DoRegExpExec"
+code-creation,CallIC,0x2b595ab5e180,655,"push"
+code-creation,LazyCompile,0x2b595ab5e420,796,"ArrayConcat native array.js:471",0x123f28c13418,~
+code-creation,CallIC,0x2b595ab5e740,192,"slice"
+code-creation,CallIC,0x2b595ab5e800,192,"concat"
+code-creation,LazyCompile,0x2b595ab5e8c0,240,"exports.extname path.js:444",0x123f28c6f410,~
+code-creation,CallIC,0x2b595ab5e9c0,192,"slice"
+tick,0x1002020a1,0x7fff5fbff030,0,0x7fff5fbff0c0,0,0x2b595ab5bc3f,0x2b595ab5e955,0x2b595ab5b59e,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab5ea80,968,"StringDictionaryLookupStub"
+code-creation,KeyedCallMegamorphic,0x2b595ab5ee60,1451,"args_count: 2"
+code-creation,LazyCompile,0x2b595ab5f420,336,"Module._extensions..js module.js:472",0x123f28c70f50,~
+code-creation,CallInitialize,0x2b595ab5f580,241,"args_count: 4"
+code-creation,LazyCompile,0x2b595ab5f680,2620,"fs.readFileSync fs.js:276",0x123f28c73ef8,
+code-creation,StoreIC,0x2b595ab600c0,185,"encoding"
+code-creation,StoreIC,0x2b595ab600c0,185,"encoding"
+code-creation,LazyCompile,0x2b595ab60180,348,"assertEncoding fs.js:111",0x123f28c72eb8,~
+code-creation,LazyCompile,0x2b595ab602e0,688,"Buffer.isEncoding buffer.js:245",0x123f28c63210,~
+code-creation,LazyCompile,0x2b595ab605a0,496,"toLowerCase native string.js:739",0x123f28c1f1b8,~
+code-creation,LazyCompile,0x2b595ab607a0,400,"fs.openSync fs.js:435",0x123f28c74178,~
+code-creation,LazyCompile,0x2b595ab60940,440,"modeNum fs.js:411",0x123f28c73098,~
+code-creation,Stub,0x2b595ab60b00,132,"UnaryOpStub_BIT_NOT_Alloc_Uninitialized"
+code-creation,Stub,0x2b595ab60ba0,143,"BinaryOpStub_BIT_OR_OverwriteLeft_Uninitialized"
+code-creation,LazyCompile,0x2b595ab60c40,1664,"stringToFlags fs.js:355",0x123f28c72ff8,~
+code-creation,LazyCompile,0x2b595ab612c0,216,"fs.fstatSync fs.js:684",0x123f28c75078,~
+tick,0x1002a9eca,0x7fff5fbfe1f0,0,0x7fff5fbfeac7,2,0x2b595ab5fb7d,0x2b595ab5f4d9,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab613a0,143,"BinaryOpStub_BIT_AND_OverwriteLeft_Uninitialized"
+code-creation,LazyCompile,0x2b595ab61440,2768,"Buffer buffer.js:156",0x123f28c62d10,~
+code-creation,LazyCompile,0x2b595ab61f20,296,"ceil native math.js:79",0x123f28c214b0,~
+code-creation,LazyCompile,0x2b595ab62060,316,"allocPool buffer.js:270",0x123f28c62e50,~
+code-creation,Stub,0x2b595ab621a0,276,"BinaryOpStub_BIT_AND_OverwriteLeft_SMI"
+code-creation,StoreIC,0x2b595ab622c0,189,"used"
+code-creation,StoreIC,0x2b595ab622c0,189,"used"
+code-creation,CallPreMonomorphic,0x2b595ab62380,241,"args_count: 4"
+code-creation,LazyCompile,0x2b595ab62480,1280,"fs.readSync fs.js:471",0x123f28c742b8,~
+code-creation,LazyCompile,0x2b595ab62980,268,"isBuffer buffer.js:277",0x123f28c632b0,~
+code-creation,LazyCompile,0x2b595ab62aa0,216,"fs.closeSync fs.js:407",0x123f28c74038,~
+code-creation,LazyCompile,0x2b595ab62b80,1452,"Buffer.toString buffer.js:392",0x123f28c63670,~
+code-creation,LazyCompile,0x2b595ab63140,288,"stripBOM module.js:460",0x123f28c70870,~
+code-creation,LazyCompile,0x2b595ab63260,1376,"charCodeAt native string.js:80",0x123f28c1e678,~
+tick,0x100395b0a,0x7fff5fbfe398,0,0x100185de9,2,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab637c0,550,"FastCloneShallowArrayStub"
+code-creation,Stub,0x2b595ab63a00,330,"StoreArrayLiteralElementStub"
+code-creation,LazyCompile,0x2b595ab63b60,3152,"Module._compile module.js:374",0x123f28c70eb0,~
+code-creation,LoadIC,0x2b595ab647c0,147,"lastMatchInfoOverride"
+code-creation,LoadIC,0x2b595ab647c0,147,"lastMatchInfoOverride"
+code-creation,RegExp,0x2b595ab64860,895,"^\\#\\!.*"
+code-creation,StoreIC,0x2b595ab64be0,185,"get"
+code-creation,StoreIC,0x2b595ab64be0,185,"get"
+code-creation,CallIC,0x2b595ab64ca0,205,"substr"
+code-creation,Function,0x2b595ab64d80,368," /Users/pado/xnode/Codes/scripts/nexttick.js:1",0x123f28c82600,~
+code-creation,Script,0x2b595ab64f00,244,"/Users/pado/xnode/Codes/scripts/nexttick.js",0x123f28c826f8,~
+code-creation,LazyCompile,0x2b595ab65000,224," node.js:204",0x123f28c6cc48,~
+code-creation,LoadIC,0x2b595ab650e0,138,"moduleLoadList"
+code-creation,LoadIC,0x2b595ab650e0,138,"moduleLoadList"
+code-creation,Function,0x2b595ab65180,1344," console.js:1",0x123f28c82ed8,~
+code-creation,Script,0x2b595ab656c0,244,"console.js",0x123f28c82fd0,~
+code-creation,LazyCompile,0x2b595ab657c0,512," node.js:615",0x123f28c6dfa0,~
+tick,0x10024a171,0x7fff5fbfd8f0,0,0x0,2,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab659c0,254,"FastCloneShallowObjectStub"
+code-creation,LazyCompile,0x2b595ab65ac0,1328,"createWritableStdioStream node.js:550",0x123f28c5d6d0,~
+code-creation,LazyCompile,0x2b595ab66000,680,"Instantiate native apinatives.js:44",0x123f28c32828,~
+tick,0x7fff6b91460f,0x7fff5fbfd880,1,0x100340b3b,2,0x2b595ab2ad84,0x2b595ab29e75,0x2b595ab2a37b,0x2b595ab29daa,0x2b595ab65b5b,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab662c0,1151,"Instantiate native apinatives.js:44",0x123f28c32828,*
+tick,0x100236b08,0x7fff5fbfe060,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Function,0x2b595ab66740,2036," tty.js:1",0x28adf8d04b88,~
+code-creation,Script,0x2b595ab66f40,244,"tty.js",0x28adf8d04c80,~
+tick,0x1002a9d8f,0x7fff5fbfc628,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab6698a,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+tick,0x1002a971f,0x7fff5fbfcab0,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab6698a,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Stub,0x2b595ab67040,433,"FastNewContextStub"
+code-creation,Function,0x2b595ab67200,7256," net.js:1",0x28adf8d27d30,~
+code-creation,Script,0x2b595ab68e60,244,"net.js",0x28adf8d27e28,~
+tick,0x1002ab8d1,0x7fff5fbfcc30,1,0x10034fd0c,2,0x2b595ab2de8c,0x2b595ab2d6e8,0x2b595ab67a10,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab6698a,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,Function,0x2b595ab68f60,2792," timers.js:1",0x28adf8d28dc0,~
+code-creation,Script,0x2b595ab69a60,244,"timers.js",0x28adf8d28eb8,~
+code-creation,Function,0x2b595ab69b60,504," _linklist.js:1",0x28adf8d2a3d8,~
+code-creation,Script,0x2b595ab69d60,244,"_linklist.js",0x28adf8d2a4d0,~
+tick,0x100142cde,0x7fff5fbfe3f8,0,0x100224516,0,0x2b595ab697cb,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab67a10,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab6698a,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab69e60,228,"init _linklist.js:22",0x28adf8d29f68,~
+tick,0x7fff98ca58ea,0x7fff5fbfdff8,1,0x100340b3b,5,0x2b595ab67b5c,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab6698a,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65c3f,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LoadIC,0x2b595ab69f60,134,"get"
+code-creation,LoadIC,0x2b595ab69f60,134,"get"
+code-creation,LoadIC,0x2b595ab6a000,220,""
+code-creation,LoadIC,0x2b595ab6a000,220,""
+code-creation,LazyCompile,0x2b595ab6a0e0,528,"WriteStream tty.js:71",0x28adf8d04330,~
+code-creation,StoreIC,0x2b595ab6a300,185,"handle"
+code-creation,StoreIC,0x2b595ab6a300,185,"handle"
+code-creation,LazyCompile,0x2b595ab6a3c0,1604,"Socket net.js:135",0x28adf8d25400,~
+code-creation,LazyCompile,0x2b595ab6aa20,724,"Duplex _stream_duplex.js:39",0x123f28c7d2c0,~
+code-creation,LazyCompile,0x2b595ab6ad00,376,"Readable _stream_readable.js:100",0x123f28c7a6d0,~
+code-creation,Stub,0x2b595ab6ae80,132,"UnaryOpStub_BIT_NOT_Overwrite_Uninitialized"
+tick,0x10012feac,0x7fff5fbfe370,0,0xcd00bff3602e4017,2,0x2b595ab6ae1f,0x2b595ab6ab32,0x2b595ab6a5fb,0x2b595ab6a262,0x2b595ab65c77,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab6af20,1360,"ReadableState _stream_readable.js:32",0x123f28c7a630,~
+code-creation,Stub,0x2b595ab6b480,149,"UnaryOpStub_BIT_NOT_Alloc_Smi"
+code-creation,Stub,0x2b595ab6b520,149,"UnaryOpStub_BIT_NOT_Overwrite_Smi"
+code-creation,StoreIC,0x2b595ab6b5c0,185,"highWaterMark"
+code-creation,StoreIC,0x2b595ab6b5c0,185,"highWaterMark"
+code-creation,LazyCompile,0x2b595ab6b680,212,"Stream stream.js:42",0x123f28c7a070,~
+code-creation,LoadIC,0x2b595ab6b760,138,"usingDomains"
+code-creation,LoadIC,0x2b595ab6b760,138,"usingDomains"
+code-creation,LoadIC,0x2b595ab6b800,332,""
+code-creation,LoadIC,0x2b595ab6b800,332,""
+code-creation,LoadIC,0x2b595ab6b960,332,""
+code-creation,LoadIC,0x2b595ab6b960,332,""
+code-creation,LazyCompile,0x2b595ab6bac0,432,"Writable _stream_writable.js:111",0x123f28c7c198,~
+code-creation,LazyCompile,0x2b595ab6bc80,1152,"WritableState _stream_writable.js:40",0x123f28c7c0f8,~
+code-creation,StoreIC,0x2b595ab6c100,185,"highWaterMark"
+code-creation,StoreIC,0x2b595ab6c100,185,"highWaterMark"
+code-creation,CallIC,0x2b595ab6c1c0,192,"call"
+code-creation,StoreIC,0x2b595ab6c280,185,"domain"
+code-creation,StoreIC,0x2b595ab6c280,185,"domain"
+code-creation,LoadIC,0x2b595ab6c340,134,"_events"
+code-creation,LoadIC,0x2b595ab6c340,134,"_events"
+code-creation,StoreIC,0x2b595ab6c3e0,185,"_events"
+code-creation,StoreIC,0x2b595ab6c3e0,185,"_events"
+code-creation,LoadIC,0x2b595ab6c4a0,134,"_maxListeners"
+code-creation,LoadIC,0x2b595ab6c4a0,134,"_maxListeners"
+code-creation,Stub,0x2b595ab6c540,146,"ToBooleanStub_UndefinedSmi"
+code-creation,StoreIC,0x2b595ab6c5e0,185,"_maxListeners"
+code-creation,StoreIC,0x2b595ab6c5e0,185,"_maxListeners"
+code-creation,StoreIC,0x2b595ab6c6a0,185,"readable"
+code-creation,StoreIC,0x2b595ab6c6a0,185,"readable"
+code-creation,LazyCompile,0x2b595ab6c760,640,"once events.js:169",0x123f28c61410,~
+code-creation,LazyCompile,0x2b595ab6c9e0,780,"Readable.on _stream_readable.js:706",0x123f28c7b5d0,~
+code-creation,LazyCompile,0x2b595ab6cd00,1600,"addListener events.js:126",0x123f28c61370,~
+tick,0x100226035,0x7fff5fbfe720,0,0x3fbd28f00000,0,0x2b595ab6ce14,0x2b595ab6ca95,0x2b595ab6c98e,0x2b595ab6ace3,0x2b595ab6a5fb,0x2b595ab6a262,0x2b595ab65c77,0x2b595ab658ae,0x2b595ab65603,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,StoreIC,0x2b595ab6d340,185,"_handle"
+code-creation,StoreIC,0x2b595ab6d340,185,"_handle"
+code-creation,LoadIC,0x2b595ab6d400,168,"on"
+code-creation,LoadIC,0x2b595ab6d400,168,"on"
+code-creation,CallMiss,0x2b595ab6d4c0,241,"args_count: 3"
+code-creation,CallIC,0x2b595ab6d5c0,192,"call"
+code-creation,LoadIC,0x2b595ab6d680,134,"_events"
+code-creation,LoadIC,0x2b595ab6d680,134,"_events"
+code-creation,LoadIC,0x2b595ab6d720,164,""
+code-creation,LoadIC,0x2b595ab6d720,164,""
+code-creation,KeyedLoadIC,0x2b595ab6d7e0,163,"finish"
+code-creation,KeyedLoadIC,0x2b595ab6d7e0,163,"finish"
+code-creation,LoadIC,0x2b595ab6d8a0,164,""
+code-creation,LoadIC,0x2b595ab6d8a0,164,""
+code-creation,KeyedLoadIC,0x2b595ab6d960,163,"_socketEnd"
+code-creation,KeyedLoadIC,0x2b595ab6d960,163,"_socketEnd"
+code-creation,LazyCompile,0x2b595ab6da20,372,"initSocketHandle net.js:123",0x28adf8d25360,~
+code-creation,StoreIC,0x2b595ab6dba0,185,"decodeStrings"
+code-creation,StoreIC,0x2b595ab6dba0,185,"decodeStrings"
+code-creation,StoreIC,0x2b595ab6dc60,185,"allowHalfOpen"
+code-creation,StoreIC,0x2b595ab6dc60,185,"allowHalfOpen"
+code-creation,LazyCompile,0x2b595ab6dd20,900,"process.on.process.addListener node.js:753",0x123f28c6e5f0,~
+code-creation,LazyCompile,0x2b595ab6e0c0,340,"isSignal node.js:747",0x123f28c6e550,~
+code-creation,CallIC,0x2b595ab6e220,190,"SubString"
+code-creation,LazyCompile,0x2b595ab6e2e0,304,"startup.lazyConstants node.js:212",0x123f28c5d9f0,~
+code-creation,StoreIC,0x2b595ab6e420,189,"_lazyConstants"
+code-creation,StoreIC,0x2b595ab6e420,189,"_lazyConstants"
+code-creation,LoadIC,0x2b595ab6e4e0,138,"_lazyConstants"
+code-creation,LoadIC,0x2b595ab6e4e0,138,"_lazyConstants"
+code-creation,Stub,0x2b595ab6e580,173,"ToBooleanStub_NullSpecObject"
+code-creation,LoadIC,0x2b595ab6e640,138,"_events"
+code-creation,LoadIC,0x2b595ab6e640,138,"_events"
+code-creation,LoadIC,0x2b595ab6e6e0,164,""
+code-creation,LoadIC,0x2b595ab6e6e0,164,""
+code-creation,LazyCompile,0x2b595ab6e7a0,424," node.js:630",0x123f28c6e040,~
+code-creation,CallIC,0x2b595ab6e960,552,"binding"
+code-creation,CallIC,0x2b595ab6eba0,552,"guessHandleType"
+code-creation,CallIC,0x2b595ab6ede0,157,"require"
+code-creation,LoadIC,0x2b595ab6ee80,143,"WriteStream"
+code-creation,LoadIC,0x2b595ab6ee80,143,"WriteStream"
+code-creation,LoadIC,0x2b595ab6ef20,143,"Socket"
+code-creation,LoadIC,0x2b595ab6ef20,143,"Socket"
+tick,0x7fff98ca664a,0x7fff5fbfe748,1,0x100359ffa,5,0x2b595ab6a240,0x2b595ab65c77,0x2b595ab6e892,0x2b595ab65626,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,CallIC,0x2b595ab6efc0,192,"call"
+code-creation,StoreIC,0x2b595ab6f080,468,"_connecting"
+code-creation,StoreIC,0x2b595ab6f080,468,"_connecting"
+code-creation,StoreIC,0x2b595ab6f260,468,"_handle"
+code-creation,StoreIC,0x2b595ab6f260,468,"_handle"
+code-creation,LoadIC,0x2b595ab6f440,143,"Duplex"
+code-creation,LoadIC,0x2b595ab6f440,143,"Duplex"
+code-creation,CallIC,0x2b595ab6f4e0,192,"call"
+code-creation,LoadIC,0x2b595ab6f5a0,164,""
+code-creation,LoadIC,0x2b595ab6f5a0,164,""
+code-creation,StoreIC,0x2b595ab6f660,328,"highWaterMark"
+code-creation,StoreIC,0x2b595ab6f660,328,"highWaterMark"
+code-creation,LoadIC,0x2b595ab6f7c0,134,"highWaterMark"
+code-creation,LoadIC,0x2b595ab6f7c0,134,"highWaterMark"
+code-creation,StoreIC,0x2b595ab6f860,328,"buffer"
+code-creation,StoreIC,0x2b595ab6f860,328,"buffer"
+code-creation,StoreIC,0x2b595ab6f9c0,328,"length"
+code-creation,StoreIC,0x2b595ab6f9c0,328,"length"
+code-creation,StoreIC,0x2b595ab6fb20,328,"pipes"
+code-creation,StoreIC,0x2b595ab6fb20,328,"pipes"
+code-creation,StoreIC,0x2b595ab6fc80,328,"pipesCount"
+code-creation,StoreIC,0x2b595ab6fc80,328,"pipesCount"
+code-creation,StoreIC,0x2b595ab6fde0,328,"flowing"
+code-creation,StoreIC,0x2b595ab6fde0,328,"flowing"
+code-creation,StoreIC,0x2b595ab6ff40,328,"ended"
+code-creation,StoreIC,0x2b595ab6ff40,328,"ended"
+code-creation,StoreIC,0x2b595ab700a0,328,"endEmitted"
+code-creation,StoreIC,0x2b595ab700a0,328,"endEmitted"
+code-creation,StoreIC,0x2b595ab70200,328,"reading"
+code-creation,StoreIC,0x2b595ab70200,328,"reading"
+code-creation,StoreIC,0x2b595ab70360,328,"calledRead"
+code-creation,StoreIC,0x2b595ab70360,328,"calledRead"
+code-creation,StoreIC,0x2b595ab704c0,328,"sync"
+code-creation,StoreIC,0x2b595ab704c0,328,"sync"
+code-creation,StoreIC,0x2b595ab70620,328,"needReadable"
+code-creation,StoreIC,0x2b595ab70620,328,"needReadable"
+code-creation,StoreIC,0x2b595ab70780,328,"emittedReadable"
+code-creation,StoreIC,0x2b595ab70780,328,"emittedReadable"
+code-creation,StoreIC,0x2b595ab708e0,328,"readableListening"
+code-creation,StoreIC,0x2b595ab708e0,328,"readableListening"
+code-creation,StoreIC,0x2b595ab70a40,334,"objectMode"
+code-creation,StoreIC,0x2b595ab70a40,334,"objectMode"
+code-creation,StoreIC,0x2b595ab70ba0,334,"defaultEncoding"
+code-creation,StoreIC,0x2b595ab70ba0,334,"defaultEncoding"
+code-creation,StoreIC,0x2b595ab70d00,334,"ranOut"
+code-creation,StoreIC,0x2b595ab70d00,334,"ranOut"
+code-creation,StoreIC,0x2b595ab70e60,334,"awaitDrain"
+code-creation,StoreIC,0x2b595ab70e60,334,"awaitDrain"
+code-creation,StoreIC,0x2b595ab70fc0,334,"readingMore"
+code-creation,StoreIC,0x2b595ab70fc0,334,"readingMore"
+code-creation,StoreIC,0x2b595ab71120,334,"decoder"
+code-creation,StoreIC,0x2b595ab71120,334,"decoder"
+code-creation,StoreIC,0x2b595ab71280,334,"encoding"
+code-creation,StoreIC,0x2b595ab71280,334,"encoding"
+code-creation,StoreIC,0x2b595ab713e0,468,"_readableState"
+code-creation,StoreIC,0x2b595ab713e0,468,"_readableState"
+code-creation,StoreIC,0x2b595ab715c0,468,"readable"
+code-creation,StoreIC,0x2b595ab715c0,468,"readable"
+code-creation,CallIC,0x2b595ab717a0,192,"call"
+code-creation,StoreIC,0x2b595ab71860,468,"domain"
+code-creation,StoreIC,0x2b595ab71860,468,"domain"
+code-creation,StoreIC,0x2b595ab71a40,468,"_events"
+code-creation,StoreIC,0x2b595ab71a40,468,"_events"
+code-creation,StoreIC,0x2b595ab71c20,468,"_maxListeners"
+code-creation,StoreIC,0x2b595ab71c20,468,"_maxListeners"
+code-creation,CallIC,0x2b595ab71e00,192,"call"
+code-creation,StoreIC,0x2b595ab71ec0,328,"highWaterMark"
+code-creation,StoreIC,0x2b595ab71ec0,328,"highWaterMark"
+code-creation,StoreIC,0x2b595ab72020,328,"objectMode"
+code-creation,StoreIC,0x2b595ab72020,328,"objectMode"
+code-creation,LoadIC,0x2b595ab72180,134,"highWaterMark"
+code-creation,LoadIC,0x2b595ab72180,134,"highWaterMark"
+code-creation,StoreIC,0x2b595ab72220,328,"needDrain"
+code-creation,StoreIC,0x2b595ab72220,328,"needDrain"
+code-creation,StoreIC,0x2b595ab72380,328,"ending"
+code-creation,StoreIC,0x2b595ab72380,328,"ending"
+code-creation,StoreIC,0x2b595ab724e0,328,"ended"
+code-creation,StoreIC,0x2b595ab724e0,328,"ended"
+code-creation,StoreIC,0x2b595ab72640,328,"finished"
+code-creation,StoreIC,0x2b595ab72640,328,"finished"
+code-creation,StoreIC,0x2b595ab727a0,328,"decodeStrings"
+code-creation,StoreIC,0x2b595ab727a0,328,"decodeStrings"
+code-creation,StoreIC,0x2b595ab72900,328,"defaultEncoding"
+code-creation,StoreIC,0x2b595ab72900,328,"defaultEncoding"
+code-creation,StoreIC,0x2b595ab72a60,328,"length"
+code-creation,StoreIC,0x2b595ab72a60,328,"length"
+code-creation,StoreIC,0x2b595ab72bc0,328,"writing"
+code-creation,StoreIC,0x2b595ab72bc0,328,"writing"
+code-creation,StoreIC,0x2b595ab72d20,328,"sync"
+code-creation,StoreIC,0x2b595ab72d20,328,"sync"
+code-creation,StoreIC,0x2b595ab72e80,328,"bufferProcessing"
+tick,0x100201f04,0x7fff5fbfe3e0,0,0x800,0,0x2b595ab6bffb,0x2b595ab6bc18,0x2b595ab6ab51,0x2b595ab6a5fb,0x2b595ab6a262,0x2b595ab65c77,0x2b595ab6e892,0x2b595ab65626,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,StoreIC,0x2b595ab72e80,328,"bufferProcessing"
+code-creation,StoreIC,0x2b595ab72fe0,468,"_writableState"
+code-creation,StoreIC,0x2b595ab72fe0,468,"_writableState"
+code-creation,StoreIC,0x2b595ab731c0,468,"writable"
+code-creation,StoreIC,0x2b595ab731c0,468,"writable"
+code-creation,LoadIC,0x2b595ab733a0,134,"readable"
+code-creation,LoadIC,0x2b595ab733a0,134,"readable"
+code-creation,LoadIC,0x2b595ab73440,134,"writable"
+code-creation,LoadIC,0x2b595ab73440,134,"writable"
+code-creation,StoreIC,0x2b595ab734e0,468,"allowHalfOpen"
+code-creation,StoreIC,0x2b595ab734e0,468,"allowHalfOpen"
+code-creation,CallIC,0x2b595ab736c0,325,"once"
+code-creation,CallIC,0x2b595ab73820,269,"on"
+code-creation,LoadIC,0x2b595ab73940,134,"_events"
+code-creation,LoadIC,0x2b595ab73940,134,"_events"
+code-creation,LoadIC,0x2b595ab739e0,164,""
+code-creation,LoadIC,0x2b595ab739e0,164,""
+code-creation,LoadIC,0x2b595ab73aa0,134,"handle"
+code-creation,LoadIC,0x2b595ab73aa0,134,"handle"
+code-creation,StoreIC,0x2b595ab73b40,394,"onend"
+code-creation,StoreIC,0x2b595ab73b40,394,"onend"
+code-creation,CallIC,0x2b595ab73ce0,269,"on"
+code-creation,LoadIC,0x2b595ab73e00,164,""
+code-creation,LoadIC,0x2b595ab73e00,164,""
+code-creation,LoadIC,0x2b595ab73ec0,164,""
+code-creation,LoadIC,0x2b595ab73ec0,164,""
+code-creation,StoreIC,0x2b595ab73f80,472,"destroyed"
+code-creation,StoreIC,0x2b595ab73f80,472,"destroyed"
+code-creation,StoreIC,0x2b595ab74160,472,"bytesRead"
+code-creation,StoreIC,0x2b595ab74160,472,"bytesRead"
+code-creation,StoreIC,0x2b595ab74340,394,"_bytesDispatched"
+code-creation,StoreIC,0x2b595ab74340,394,"_bytesDispatched"
+code-creation,LoadIC,0x2b595ab744e0,134,"_handle"
+code-creation,LoadIC,0x2b595ab744e0,134,"_handle"
+code-creation,StoreIC,0x2b595ab74580,332,"owner"
+code-creation,StoreIC,0x2b595ab74580,332,"owner"
+code-creation,StoreIC,0x2b595ab746e0,472,"_pendingData"
+code-creation,StoreIC,0x2b595ab746e0,472,"_pendingData"
+code-creation,StoreIC,0x2b595ab748c0,472,"_pendingEncoding"
+code-creation,StoreIC,0x2b595ab748c0,472,"_pendingEncoding"
+code-creation,LoadIC,0x2b595ab74aa0,134,"_writableState"
+code-creation,LoadIC,0x2b595ab74aa0,134,"_writableState"
+code-creation,StoreIC,0x2b595ab74b40,185,"decodeStrings"
+code-creation,StoreIC,0x2b595ab74b40,185,"decodeStrings"
+code-creation,LoadIC,0x2b595ab74c00,134,"_handle"
+code-creation,LoadIC,0x2b595ab74c00,134,"_handle"
+code-creation,CallIC,0x2b595ab74ca0,580,"getWindowSize"
+code-creation,StoreIC,0x2b595ab74f00,394,"columns"
+code-creation,StoreIC,0x2b595ab74f00,394,"columns"
+code-creation,StoreIC,0x2b595ab750a0,472,"rows"
+code-creation,StoreIC,0x2b595ab750a0,472,"rows"
+code-creation,StoreIC,0x2b595ab75280,472,"_type"
+code-creation,StoreIC,0x2b595ab75280,472,"_type"
+code-creation,LoadIC,0x2b595ab75460,134,"_handle"
+code-creation,LoadIC,0x2b595ab75460,134,"_handle"
+code-creation,LoadIC,0x2b595ab75500,168,"unref"
+code-creation,LoadIC,0x2b595ab75500,168,"unref"
+code-creation,CallIC,0x2b595ab755c0,580,"unref"
+code-creation,StoreIC,0x2b595ab75820,394,"fd"
+code-creation,StoreIC,0x2b595ab75820,394,"fd"
+code-creation,StoreIC,0x2b595ab759c0,472,"_isStdio"
+code-creation,StoreIC,0x2b595ab759c0,472,"_isStdio"
+code-creation,LazyCompile,0x2b595ab75ba0,864,"Console console.js:24",0x123f28c82900,~
+code-creation,LoadIC,0x2b595ab75f00,134,"enumerable"
+code-creation,LoadIC,0x2b595ab75f00,134,"enumerable"
+tick,0x1002d4276,0x7fff5fbfe8a0,0,0x7fff5fbfeb10,0,0x2b595ab2fa07,0x2b595ab56b36,0x2b595ab75dca,0x2b595ab65640,0x2b595ab2def8,0x2b595ab2d6e8,0x2b595ab65092,0x2b595ab64e04,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LoadIC,0x2b595ab75fa0,134,"configurable"
+code-creation,LoadIC,0x2b595ab75fa0,134,"configurable"
+code-creation,LoadIC,0x2b595ab76040,138,"value"
+code-creation,LoadIC,0x2b595ab76040,138,"value"
+code-creation,LoadIC,0x2b595ab760e0,134,"writable"
+code-creation,LoadIC,0x2b595ab760e0,134,"writable"
+code-creation,StoreIC,0x2b595ab76180,189,"value"
+code-creation,StoreIC,0x2b595ab76180,189,"value"
+code-creation,LazyCompile,0x2b595ab76240,232," console.js:47",0x28adf8d2e6a8,~
+code-creation,Stub,0x2b595ab76340,390,"FastNewClosureStub"
+code-creation,LazyCompile,0x2b595ab764e0,1020,"bind native v8natives.js:1578",0x123f28c1ac78,~
+code-creation,LazyCompile,0x2b595ab768e0,308,"Console.log console.js:52",0x123f28c829a0,~
+code-creation,KeyedLoadIC,0x2b595ab76a20,188,"info"
+code-creation,KeyedLoadIC,0x2b595ab76a20,188,"info"
+code-creation,CallIC,0x2b595ab76ae0,187,"bind"
+code-creation,KeyedLoadIC,0x2b595ab76ba0,188,"warn"
+code-creation,KeyedLoadIC,0x2b595ab76ba0,188,"warn"
+code-creation,LazyCompile,0x2b595ab76c60,308,"Console.warn console.js:60",0x123f28c82a40,~
+code-creation,LazyCompile,0x2b595ab76da0,268,"Console.dir console.js:68",0x123f28c82ae0,~
+code-creation,LazyCompile,0x2b595ab76ec0,252,"Console.time console.js:73",0x123f28c82b80,~
+code-creation,LazyCompile,0x2b595ab76fc0,428,"Console.timeEnd console.js:78",0x123f28c82c20,~
+code-creation,LazyCompile,0x2b595ab77180,452,"Console.trace console.js:88",0x123f28c82cc0,~
+code-creation,LazyCompile,0x2b595ab77360,504,"Console.assert console.js:99",0x123f28c82d60,~
+code-creation,Stub,0x2b595ab77560,340,"ArgumentsAccessStub_NewStrict"
+tick,0x1002d7516,0x7fff5fbfeaa8,0,0x7fff5fbfeac0,2,0x2b595ab64e20,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab776c0,1256,"b native v8natives.js:1582",0x28adf8d2e850,~
+code-creation,CallIC,0x2b595ab77bc0,189,"ToUint32"
+code-creation,Stub,0x2b595ab77c80,143,"BinaryOpStub_ADD_OverwriteRight_Uninitialized"
+code-creation,LazyCompile,0x2b595ab77d20,1668,"exports.format util.js:23",0x123f28c6a098,~
+code-creation,LazyCompile,0x2b595ab783c0,2100,"StringReplaceGlobalRegExpWithFunction native string.js:374",0x123f28c1ecb8,~
+code-creation,StoreIC,0x2b595ab78c00,150,"reusableReplaceArray"
+code-creation,StoreIC,0x2b595ab78c00,150,"reusableReplaceArray"
+code-creation,RegExp,0x2b595ab78ca0,823,"%[sdj%]"
+code-creation,LazyCompile,0x2b595ab78fe0,656,"Socket.write net.js:612",0x28adf8d26d00,~
+code-creation,LoadIC,0x2b595ab79280,134,"length"
+code-creation,LoadIC,0x2b595ab79280,134,"length"
+code-creation,LazyCompile,0x2b595ab79320,720,"Writable.write _stream_writable.js:162",0x123f28c7cb98,~
+code-creation,LazyCompile,0x2b595ab79600,728,"validChunk _stream_writable.js:145",0x123f28c7c2d8,~
+code-creation,Stub,0x2b595ab798e0,317,"CallFunctionStub_Args6_Recording"
+code-creation,LazyCompile,0x2b595ab79a20,744,"writeOrBuffer _stream_writable.js:199",0x123f28c7c418,~
+code-creation,LazyCompile,0x2b595ab79d20,396,"decodeChunk _stream_writable.js:187",0x123f28c7c378,~
+tick,0x7fff98ca5e9a,0x7fff5fbfea08,0,0x7fff906d1970,2,0x2b595ab79ac1,0x2b595ab79594,0x2b595ab79222,0x2b595ab769cc,0x2b595ab77916,0x2b595ab64e20,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,StoreIC,0x2b595ab79ec0,185,"length"
+code-creation,StoreIC,0x2b595ab79ec0,185,"length"
+code-creation,LazyCompile,0x2b595ab79f80,364,"doWrite _stream_writable.js:220",0x123f28c7c4b8,~
+code-creation,StoreIC,0x2b595ab7a100,185,"writelen"
+code-creation,StoreIC,0x2b595ab7a100,185,"writelen"
+code-creation,StoreIC,0x2b595ab7a1c0,185,"writecb"
+code-creation,StoreIC,0x2b595ab7a1c0,185,"writecb"
+code-creation,StoreIC,0x2b595ab7a280,185,"writing"
+code-creation,StoreIC,0x2b595ab7a280,185,"writing"
+code-creation,StoreIC,0x2b595ab7a340,185,"sync"
+code-creation,StoreIC,0x2b595ab7a340,185,"sync"
+code-creation,LazyCompile,0x2b595ab7a400,1348,"Socket._write net.js:619",0x28adf8d26da0,~
+code-creation,StoreIC,0x2b595ab7a960,189,"_pendingData"
+code-creation,StoreIC,0x2b595ab7a960,189,"_pendingData"
+code-creation,StoreIC,0x2b595ab7aa20,189,"_pendingEncoding"
+code-creation,StoreIC,0x2b595ab7aa20,189,"_pendingEncoding"
+code-creation,LazyCompile,0x2b595ab7aae0,2032,"exports._unrefActive timers.js:440",0x28adf8d28b68,~
+code-creation,LazyCompile,0x2b595ab7b2e0,696,"createWriteReq net.js:658",0x28adf8d25860,~
+code-creation,StoreIC,0x2b595ab7b5a0,189,"_bytesDispatched"
+code-creation,StoreIC,0x2b595ab7b5a0,189,"_bytesDispatched"
+code-creation,LazyCompile,0x2b595ab7b660,236,"WritableState.onwrite _stream_writable.js:95",0x28adf8d2cd90,~
+code-creation,LazyCompile,0x2b595ab7b760,1004,"onwrite _stream_writable.js:248",0x123f28c7c698,~
+code-creation,LazyCompile,0x2b595ab7bb60,324,"onwriteStateUpdate _stream_writable.js:241",0x123f28c7c5f8,~
+code-creation,LazyCompile,0x2b595ab7bcc0,432,"needFinish _stream_writable.js:348",0x123f28c7c918,~
+tick,0x1002f82a4,0x7fff5fbfe758,0,0x1002f73c7,2,0x2b595ab7bab8,0x2b595ab7b6ff,0x2b595ab7a90f,0x2b595ab7a085,0x2b595ab79cb0,0x2b595ab79594,0x2b595ab79222,0x2b595ab769cc,0x2b595ab77916,0x2b595ab64e20,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab7be80,244,"nextTick node.js:334",0x123f28c6dcf0,~
+code-creation,LazyCompile,0x2b595ab7bf80,620,"_nextTick node.js:479",0x123f28c6dbb0,~
+code-creation,Stub,0x2b595ab7c200,274,"KeyedLoadElementStub"
+code-creation,KeyedLoadIC,0x2b595ab7c320,130,""
+code-creation,KeyedLoadIC,0x2b595ab7c320,130,"args_count: 0"
+code-creation,StoreIC,0x2b595ab7c3c0,185,"callback"
+code-creation,StoreIC,0x2b595ab7c3c0,185,"callback"
+code-creation,Stub,0x2b595ab7c480,263,"KeyedStoreElementStub"
+code-creation,KeyedStoreIC,0x2b595ab7c5a0,130,""
+code-creation,KeyedStoreIC,0x2b595ab7c5a0,130,"args_count: 0"
+code-creation,LazyCompile,0x2b595ab7c640,296,"global.setImmediate node.js:192",0x123f28c6c908,~
+code-creation,LazyCompile,0x2b595ab7c780,968,"exports.setImmediate timers.js:352",0x28adf8d28a28,~
+code-creation,StoreIC,0x2b595ab7cb60,226,"_idleNext"
+code-creation,StoreIC,0x2b595ab7cb60,226,"_idleNext"
+code-creation,StoreIC,0x2b595ab7cc60,304,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7cc60,304,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7cda0,164,"_needImmediateCallback"
+code-creation,StoreIC,0x2b595ab7cda0,164,"_needImmediateCallback"
+code-creation,LazyCompile,0x2b595ab7ce60,352,"append _linklist.js:63",0x28adf8d2a1e8,~
+code-creation,LazyCompile,0x2b595ab7cfc0,420,"remove _linklist.js:47",0x28adf8d2a148,~
+code-creation,StoreIC,0x2b595ab7d180,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7d180,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7d240,189,"_idleNext"
+code-creation,StoreIC,0x2b595ab7d240,189,"_idleNext"
+code-creation,StoreIC,0x2b595ab7d300,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7d300,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7d3c0,189,"_idleNext"
+code-creation,StoreIC,0x2b595ab7d3c0,189,"_idleNext"
+code-creation,LazyCompile,0x2b595ab7d480,296,"global.setTimeout node.js:172",0x123f28c6c688,~
+code-creation,Stub,0x2b595ab7d5c0,143,"BinaryOpStub_MUL_Alloc_Uninitialized"
+code-creation,LazyCompile,0x2b595ab7d660,1088,"exports.setTimeout timers.js:194",0x28adf8d28528,~
+code-creation,Stub,0x2b595ab7daa0,320,"BinaryOpStub_MUL_Alloc_SMI"
+code-creation,LazyCompile,0x2b595ab7dbe0,368,"Timeout timers.js:283",0x28adf8d287a8,~
+code-creation,StoreIC,0x2b595ab7dd60,185,"_onTimeout"
+code-creation,StoreIC,0x2b595ab7dd60,185,"_onTimeout"
+tick,0x7fff98ca5e9a,0x7fff5fbfee68,0,0x7fff906d1970,0,0x2b595ab7d8f8,0x2b595ab7d55a,0x2b595ab64e72,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LazyCompile,0x2b595ab7de20,516,"exports.active timers.js:173",0x28adf8d28488,~
+code-creation,KeyedLoadIC,0x2b595ab7e040,130,""
+code-creation,KeyedLoadIC,0x2b595ab7e040,130,"args_count: 0"
+code-creation,LazyCompile,0x2b595ab7e0e0,700,"insert timers.js:52",0x28adf8d27f88,~
+code-creation,LazyCompile,0x2b595ab7e3a0,220,"now native date.js:314",0x123f28c24908,~
+code-creation,StoreIC,0x2b595ab7e480,185,"_idleStart"
+code-creation,StoreIC,0x2b595ab7e480,185,"_idleStart"
+code-creation,StoreIC,0x2b595ab7e540,185,"_monotonicStartTime"
+code-creation,StoreIC,0x2b595ab7e540,185,"_monotonicStartTime"
+code-creation,StoreIC,0x2b595ab7e600,185,"_idleTimeout"
+code-creation,StoreIC,0x2b595ab7e600,185,"_idleTimeout"
+code-creation,Stub,0x2b595ab7e6c0,257,"KeyedStoreElementStub"
+code-creation,KeyedStoreIC,0x2b595ab7e7e0,130,""
+code-creation,KeyedStoreIC,0x2b595ab7e7e0,130,"args_count: 0"
+code-creation,LoadIC,0x2b595ab7e880,134,"_idleNext"
+code-creation,LoadIC,0x2b595ab7e880,134,"_idleNext"
+code-creation,LoadIC,0x2b595ab7e920,134,"_idlePrev"
+code-creation,LoadIC,0x2b595ab7e920,134,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7e9c0,185,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7e9c0,185,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7ea80,185,"_idleNext"
+code-creation,StoreIC,0x2b595ab7ea80,185,"_idleNext"
+code-creation,LoadIC,0x2b595ab7eb40,138,"_idleNext"
+code-creation,LoadIC,0x2b595ab7eb40,138,"_idleNext"
+code-creation,StoreIC,0x2b595ab7ebe0,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7ebe0,189,"_idlePrev"
+code-creation,StoreIC,0x2b595ab7eca0,189,"_idleNext"
+code-creation,StoreIC,0x2b595ab7eca0,189,"_idleNext"
+code-creation,LazyCompile,0x2b595ab7ed60,248,"isEmpty _linklist.js:73",0x28adf8d2a288,~
+code-creation,Stub,0x2b595ab7ee60,206,"CompareICStub"
+code-creation,LoadIC,0x2b595ab7ef40,134,"_stdout"
+code-creation,LoadIC,0x2b595ab7ef40,134,"_stdout"
+code-creation,LoadIC,0x2b595ab7efe0,140,"format"
+code-creation,LoadIC,0x2b595ab7efe0,140,"format"
+code-creation,CallIC,0x2b595ab7f080,187,"apply"
+code-creation,CallIC,0x2b595ab7f140,190,"String"
+code-creation,CallIC,0x2b595ab7f200,205,"replace"
+code-creation,CallIC,0x2b595ab7f2e0,190,"StringReplaceGlobalRegExpWithFunction"
+code-creation,LoadIC,0x2b595ab7f3a0,147,"reusableReplaceArray"
+code-creation,LoadIC,0x2b595ab7f3a0,147,"reusableReplaceArray"
+code-creation,CallIC,0x2b595ab7f440,226,"write"
+code-creation,LoadIC,0x2b595ab7f540,140,"write"
+code-creation,LoadIC,0x2b595ab7f540,140,"write"
+code-creation,LoadIC,0x2b595ab7f5e0,134,"_writableState"
+code-creation,LoadIC,0x2b595ab7f5e0,134,"_writableState"
+code-creation,LoadIC,0x2b595ab7f680,157,"Buffer"
+code-creation,LoadIC,0x2b595ab7f680,157,"Buffer"
+code-creation,CallIC,0x2b595ab7f720,157,"isBuffer"
+code-creation,LoadIC,0x2b595ab7f7c0,134,"defaultEncoding"
+code-creation,LoadIC,0x2b595ab7f7c0,134,"defaultEncoding"
+code-creation,LoadIC,0x2b595ab7f860,134,"ended"
+code-creation,LoadIC,0x2b595ab7f860,134,"ended"
+code-creation,LoadIC,0x2b595ab7f900,134,"objectMode"
+code-creation,LoadIC,0x2b595ab7f900,134,"objectMode"
+code-creation,LoadIC,0x2b595ab7f9a0,134,"decodeStrings"
+code-creation,LoadIC,0x2b595ab7f9a0,134,"decodeStrings"
+code-creation,LoadIC,0x2b595ab7fa40,134,"length"
+code-creation,LoadIC,0x2b595ab7fa40,134,"length"
+code-creation,LoadIC,0x2b595ab7fae0,134,"highWaterMark"
+code-creation,LoadIC,0x2b595ab7fae0,134,"highWaterMark"
+code-creation,LoadIC,0x2b595ab7fb80,134,"writing"
+code-creation,LoadIC,0x2b595ab7fb80,134,"writing"
+code-creation,LoadIC,0x2b595ab7fc20,140,"onwrite"
+tick,0x7fff98ca5e9a,0x7fff5fbfe948,0,0x7fff906d1970,0,0x2b595ab7a075,0x2b595ab79cb0,0x2b595ab79594,0x2b595ab79222,0x2b595ab769cc,0x2b595ab77916,0x2b595ab64ea5,0x2b595ab64790,0x2b595ab5f525,0x2b595ab5b636,0x2b595ab4a167,0x2b595ab49b2b,0x2b595ab2d119,0x2b595ab2c6a5
+code-creation,LoadIC,0x2b595ab7fc20,140,"onwrite"
+code-creation,CallIC,0x2b595ab7fcc0,213,"_write"
+code-creation,LoadIC,0x2b595ab7fda0,134,"_connecting"
+code-creation,LoadIC,0x2b595ab7fda0,134,"_connecting"
+code-creation,CallIC,0x2b595ab7fe40,157,"_unrefActive"
+code-creation,LoadIC,0x2b595ab7fee0,332,""
+code-creation,LoadIC,0x2b595ab7fee0,332,""
+code-creation,LoadIC,0x2b595ab80040,134,"_handle"
+code-creation,LoadIC,0x2b595ab80040,134,"_handle"
+code-creation,CallIC,0x2b595ab800e0,580,"writeUtf8String"
+code-creation,LoadIC,0x2b595ab80340,138,"_bytesDispatched"
+code-creation,LoadIC,0x2b595ab80340,138,"_bytesDispatched"
+code-creation,LoadIC,0x2b595ab803e0,138,"bytes"
+code-creation,LoadIC,0x2b595ab803e0,138,"bytes"
+code-creation,LoadIC,0x2b595ab80480,138,"writeQueueSize"
+code-creation,LoadIC,0x2b595ab80480,138,"writeQueueSize"
+code-creation,LoadIC,0x2b595ab80520,134,"sync"
+code-creation,LoadIC,0x2b595ab80520,134,"sync"
+code-creation,LoadIC,0x2b595ab805c0,134,"writecb"
+code-creation,LoadIC,0x2b595ab805c0,134,"writecb"
+code-creation,LoadIC,0x2b595ab80660,134,"writelen"
+code-creation,LoadIC,0x2b595ab80660,134,"writelen"
+code-creation,LoadIC,0x2b595ab80700,134,"ending"
+code-creation,LoadIC,0x2b595ab80700,134,"ending"
+code-creation,LoadIC,0x2b595ab807a0,134,"bufferProcessing"
+code-creation,LoadIC,0x2b595ab807a0,134,"bufferProcessing"
+code-creation,LoadIC,0x2b595ab80840,137,"buffer"
+code-creation,LoadIC,0x2b595ab80840,137,"buffer"
+code-creation,CallIC,0x2b595ab808e0,157,"nextTick"
+code-creation,CallIC,0x2b595ab80980,160,"_currentTickHandler"
+code-creation,LoadIC,0x2b595ab80a20,141,"_exiting"
+code-creation,LoadIC,0x2b595ab80a20,141,"_exiting"
+code-creation,LoadIC,0x2b595ab80ac0,141,"maxTickDepth"
+code-creation,LoadIC,0x2b595ab80ac0,141,"maxTickDepth"
+code-creation,StoreIC,0x2b595ab80b60,185,"loaded"
+code-creation,StoreIC,0x2b595ab80b60,185,"loaded"
+code-creation,LazyCompile,0x2b595ab80c20,1376,"_tickCallback node.js:399",0x123f28c6da70,
+code-creation,LazyCompile,0x2b595ab81180,252," _stream_writable.js:265",0x28adf8d2f958,~
+code-creation,LazyCompile,0x2b595ab81280,360,"afterWrite _stream_writable.js:274",0x123f28c7c738,~
+code-creation,LazyCompile,0x2b595ab81400,336,"onwriteDrain _stream_writable.js:285",0x123f28c7c7d8,~
+code-creation,LazyCompile,0x2b595ab81560,184,"cb _stream_writable.js:177",0x28adf8d2f0f0,~
+code-creation,LoadIC,0x2b595ab81620,134,"callback"
+code-creation,LoadIC,0x2b595ab81620,134,"callback"
+code-creation,LoadIC,0x2b595ab816c0,134,"needDrain"
+code-creation,LoadIC,0x2b595ab816c0,134,"needDrain"
+code-creation,LazyCompile,0x2b595ab81760,748,"tickDone node.js:354",0x123f28c6d890,~
+tick,0x100149337,0x7fff5fbfeea0,0,0x7fff5fbfeee0,2
+code-creation,LazyCompile,0x2b595ab81a60,1912,"listOnTimeout timers.js:79",0x28adf8d28028,
+code-creation,LazyCompile,0x2b595ab821e0,184,"debug timers.js:33",0x28adf8d282a8,~
+code-creation,CallIC,0x2b595ab822a0,189,"ToPrimitive"
+code-creation,LazyCompile,0x2b595ab82360,280,"peek _linklist.js:30",0x28adf8d2a008,~
+code-creation,Stub,0x2b595ab82480,206,"CompareICStub"
+code-creation,LoadIC,0x2b595ab82560,138,"_idlePrev"
+code-creation,LoadIC,0x2b595ab82560,138,"_idlePrev"
+code-creation,LazyCompile,0x2b595ab82600,232," /Users/pado/xnode/Codes/scripts/nexttick.js:8",0x123f28c824e8,~
+code-creation,CallIC,0x2b595ab82700,160,"peek"
+code-creation,CallIC,0x2b595ab827a0,189,"ToObject"
+code-creation,LazyCompile,0x2b595ab82860,452,"_tickFromSpinner node.js:386",0x123f28c6d9d0,~
+code-creation,LazyCompile,0x2b595ab82a40,1156,"afterWrite net.js:706",0x28adf8d25900,~
+code-creation,Stub,0x2b595ab82ee0,224,"CompareICStub"
+code-creation,LoadIC,0x2b595ab82fc0,138,"owner"
+code-creation,LoadIC,0x2b595ab82fc0,138,"owner"
+code-creation,LoadIC,0x2b595ab83060,193,"stderr"
+code-creation,LoadIC,0x2b595ab83060,193,"stderr"
+code-creation,LoadIC,0x2b595ab83140,193,"stdout"
+code-creation,LoadIC,0x2b595ab83140,193,"stdout"
+code-creation,LoadIC,0x2b595ab83220,138,"destroyed"
+code-creation,LoadIC,0x2b595ab83220,138,"destroyed"
+code-creation,LoadIC,0x2b595ab832c0,164,""
+code-creation,LoadIC,0x2b595ab832c0,164,""
+code-creation,LazyCompile,0x2b595ab83380,520,"processImmediate timers.js:335",0x28adf8d280c8,~
+code-creation,LazyCompile,0x2b595ab835a0,264,"shift _linklist.js:38",0x28adf8d2a0a8,~
+code-creation,LoadIC,0x2b595ab836c0,138,"_idleNext"
+code-creation,LoadIC,0x2b595ab836c0,138,"_idleNext"
+code-creation,LoadIC,0x2b595ab83760,138,"_idlePrev"
+code-creation,LoadIC,0x2b595ab83760,138,"_idlePrev"
+code-creation,LoadIC,0x2b595ab83800,138,"_idleNext"
+code-creation,LoadIC,0x2b595ab83800,138,"_idleNext"
+code-creation,StoreIC,0x2b595ab838a0,164,"_needImmediateCallback"
+code-creation,StoreIC,0x2b595ab838a0,164,"_needImmediateCallback"
+code-creation,LazyCompile,0x2b595ab83960,232," /Users/pado/xnode/Codes/scripts/nexttick.js:4",0x123f28c82448,~
+tick,0x1002a976c,0x7fff5fbfe890,0,0x29,2
+code-creation,LazyCompile,0x2b595ab83a60,2784,"emit events.js:53",0x123f28c612d0,~
+profiler,"end"
