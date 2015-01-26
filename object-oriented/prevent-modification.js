@@ -20,3 +20,6 @@ Object.seal(person);
 Object.isSealed(person);
 
 // Freezing object
+// the frozen object is a sealed object where data properties are read-only
+Object.freeze(person);
+Object.isFrozen(person);

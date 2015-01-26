@@ -10,49 +10,54 @@
 
 // classical OO style
 
-function Foo(who) {
-  this.me = who;
-}
+// function Foo(name) {
+//   this.name = name;
+// }
 
-Foo.prototype.identify = function() {
-  return 'I am ' + this.me;
-};
+// // prototype is used to share methods
+// Foo.prototype.getName = function() {
+//   return 'I am ' + this.name;
+// };
 
-function Bar(who) {
-  Foo.call(this, who);
-}
-Bar.prototype = Object.create(Foo.prototype);
+// function Bar(name) {
+//   // call supertype constructor to avoid a duplicated code
+//   Foo.call(this, name);
+// }
+// Bar.prototype = Object.create(Foo.prototype);
 
-Bar.prototype.speak = function() {
-  console.log('Hello, '+this.identify());
-};
+// // customize Bar
+// Bar.prototype.speak = function() {
+//   console.log('Hello, '+this.getName());
+// };
 
-var b1 = new Bar('b1');
-var b2 = new Bar('b2');
+// var b1 = new Bar('b1');
+// var b2 = new Bar('b2');
 
-b1.speak();
-b2.speak();
+// b1.speak();
+// b2.speak();
 
 
 // OLOO(Object linked to other object) style
 
-Foo = {
-  init: function(who) {
-    this.me = who;
+var Foo = {
+  init: function(name) {
+    this.name = name;
   },
-  identify: function() {
-    return 'I am ' + this.me;
+  getName: function() {
+    return 'I am ' + this.name;
   }
 };
 
-Bar = Object.create(Foo);
+// object inherits from other object directly
+var Bar = Object.create(Foo);
+// customize Bar
 Bar.speak = function() {
-  console.log('Hello, ' + this.identify());
+  console.log('Hello, ' + this.getName());
 };
 
-b1 = Object.create(Bar);
+var b1 = Object.create(Bar);
 b1.init('b1');
-b2 = Object.create(Bar);
+var b2 = Object.create(Bar);
 b2.init('b2');
 
 b1.speak();

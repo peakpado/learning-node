@@ -1,9 +1,10 @@
+// similar to module pattern, allow private members
 
 // private
 var mammal = function(spec) {
 	var that = {};
 
-  that.get_name = function() {
+  that.getName = function() {
     return spec.name;
   };
 
@@ -24,7 +25,7 @@ var cat = function(spec) {
   that.purr = function(n) {
     console.log('cat purr method');
   };
-  that.get_name = function() {
+  that.getName = function() {
     return that.says() + ' ' + spec.name + ' ' + that.says();
   };
   return that;

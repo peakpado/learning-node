@@ -2,7 +2,7 @@
 
 scope and this: 
   - The scope is where JS identifier is found, not accessible from code, JS engine part, defined in author-time.
-  - The this is context object exists in every function fun, created in run-time as a part of execution context
+  - The this is context object exists in every JS scope, bound in run-time as a part of execution context
 
 four rules how to find this:
   - default binding: this is global when it's called in function standalone.

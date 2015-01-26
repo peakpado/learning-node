@@ -3,7 +3,7 @@ var Mammal = function(name) {
 	this.name = name;
 };
 
-Mammal.prototype.get_name = function() {
+Mammal.prototype.getName = function() {
 	return this.name;
 };
 

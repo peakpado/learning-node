@@ -5,7 +5,7 @@
 // create a useful object
 var mammal = {
 	name: 'Herb the Mammal',
-	get_name: function() {
+	getName: function() {
 		return this.name;
 	},
 	says: function() {
