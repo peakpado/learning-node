@@ -23,7 +23,7 @@ console.log(person.age);
 
 
 // revealing module pattern: put all variables and methods at the top of IIFE and 
-// simply assigns them tot he returned object.
+// simply assigns them to the returned object.
 
 var person = (function() {
   var age = 25;

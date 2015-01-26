@@ -18,11 +18,11 @@ function Square(size) {
   // this.length = size;
   // this.width = size;
 
-  // another way to create properties by calling supertype
+  // another way to create properties by calling supertype constructor
   // it's better no duplicated property definition
   Rectangle.call(this, size, size);
 
-  // then overide the existing one or nadd new
+  // then overide the existing one or add new
 }
 
 // Square.prototype = new Rectangle();
