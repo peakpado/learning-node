@@ -1,1 +1,0 @@
-It is recommended to copy these files into a new plunk. Running them locally will require a web-server.

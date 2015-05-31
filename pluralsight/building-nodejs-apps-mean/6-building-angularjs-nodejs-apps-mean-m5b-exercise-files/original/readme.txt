@@ -1,1 +1,0 @@
-The starting demo project is in module 5a - authorization
