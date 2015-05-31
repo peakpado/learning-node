@@ -15,8 +15,11 @@
     "jquery": "^2.1.1",
     "lodash": "^2.4.1",
     "minimist": "^1.1.0",
+    "node-vertica-api": "^1.0.0",
     "q": "^1.1.2",
+    "request": "^2.56.0",
     "rox": "0.0.1-13",
-    "shutterstock": "^0.10.0"
+    "shutterstock": "^0.10.0",
+    "vertica": "^0.5.2"
   }
 }
