@@ -8,6 +8,8 @@ var util = require('util'),
 function Resource(m) {
   var self = this;
 
+  EventEmitter.call(this);
+
   process.nextTick(function () {
     var count = 0;
     self.emit('start');

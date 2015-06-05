@@ -7,7 +7,7 @@
 
  callback:                        events:
  - request/reply                  - publish/subscribe
- - no rerults until all results   - act on results as they arrive
+ - no results until all results   - act on results as they arrive
  - either error or results        - partial results before error
 
  */
@@ -45,6 +45,11 @@ results.on('error', function (err) {
 
  Common patterns to create an event emitter
  - As a return value from a function call
+     var ee = new EventEmitter();
  - Objects that extends EventEmitter to emit events themselves
-
+     function Resource {
+       EventEmitter.call(this);
+       ..
+     }
+     util.inherits(Resource, EventEmitter);
  */
